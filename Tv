@@ -1,0 +1,3416 @@
+#EXTM3U
+
+#EXTINF:0,Tlnovelas
+#EXTGRP:Entretenimient
+https://tucine.xyz:25461/368/playergatotv.m3u
+#EXTINF:0,GARAGE TV
+#EXTGRP:Entretenimiento
+http://186.0.233.76:1935/Garage/smil:garage.smil/playlist.m3u8
+#EXTINF:0,E! Entertainment Television
+#EXTGRP:Entretenimiento
+http://freeiptv.apisecurers.com/canal_45_eentertainmenttelevision.m3u8
+#EXTINF:0,CNN
+#EXTGRP:Entretenimiento
+http://185.152.66.150:25461/live/fanstvapp/variedades/10.m3u8
+#EXTINF:0,CNN 2
+#EXTGRP:Entretenimiento
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/183.m3u8
+#EXTINF:0,Lifetime
+#EXTGRP:Entretenimiento
+http://freeiptv.apisecurers.com/canal_34_lifetime.m3u8
+#EXTINF: -1, E! Entretenimiento Televisión
+#EXTGRP:Entretenimiento
+http://iptv.premiumtutv.com/canal_45_eentertainmenttelevision.m3u8
+#EXTINF:0,TELEMUNDO LATINO
+#EXTGRP:Entretenimiento
+http://wscvlive-lh.akamaihd.net/i/WSCV_LIVE2@183618/master.m3u8
+#EXTINF:0,TELEMUNDO 2
+#EXTGRP:Entretenimiento
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/179.m3u8
+#EXTINF:0, PASIONES HD
+#EXTGRP:Entretenimiento
+https://latamonly-lh.akamaihd.net/i/pasiones_1@580283/master.m3u8
+
+
+
+#EXTINF:-1,Las estrellas (canal 2)
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_7_lasestrellascanal2.m3u8
+#EXTINF:-1,Fox
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_8_fox.m3u8
+#EXTINF:-1,Tlnovelas
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_9_tlnovelas.m3u8
+#EXTINF:-1,MTV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_10_mtv.m3u8
+#EXTINF:-1,Sony
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_11_sony.m3u8
+#EXTINF:-1,Azteca 13
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_12_azteca13.m3u8
+#EXTINF:-1,Azteca 7 TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_13_azteca7.m3u8
+#EXTINF:-1,Canal 5
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_14_canal5.m3u8
+#EXTINF:-1,TNT
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_15_tnt.m3u8
+#EXTINF:-1,Cartoon Network
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_16_cartoonnetwork.m3u8
+#EXTINF:-1,Once TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_18_oncetv.m3u8
+#EXTINF:-1,Discovery Channel
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_19_discoverychannel.m3u8
+#EXTINF:-1,Disney Channel
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_20_disneychannel.m3u8
+#EXTINF:-1,Nickelodeon (Nick)
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_21_nickelodeonnick.m3u8
+#EXTINF:-1,Discovery Kids TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_22_discoverykids.m3u8
+#EXTINF:-1,NatGeo
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_23_natgeo.m3u8
+#EXTINF:-1,El Financiero Bloomberg
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_24_elfinancierobloomberg.m3u8
+#EXTINF:-1,Disney Jr
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_25_disneyjr.m3u8
+#EXTINF:-1,Multimedios Monterrey
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_26_multimediosmonterrey.m3u8
+#EXTINF:-1,Cinecanal (W)
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_27_cinecanalw.m3u8
+#EXTINF:-1,Animal Planet
+#EXTGRP:respaldo
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/17.m3u8
+#EXTINF:-1,FX
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_29_fx.m3u8
+#EXTINF:-1,Disney XD TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_30_disneyxd.m3u8
+#EXTINF:-1,Tooncast
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_31_tooncast.m3u8
+#EXTINF:-1,TVE
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_32_tve.m3u8
+#EXTINF:-1,Universal Channel
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_33_universalchannel.m3u8
+#EXTINF:-1,Lifetime
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_34_lifetime.m3u8
+#EXTINF:-1,ESPN 2
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_35_espn2.m3u8
+#EXTINF:-1,ESPN 3
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_36_espn3.m3u8
+#EXTINF:-1,Golden Edge
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
+#EXTINF:-1,TNT Series TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_39_tntseries.m3u8
+#EXTINF:-1,TIIN
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_40_tiin.m3u8
+#EXTINF:-1,Ritmoson Latino
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_41_ritmosonlatino.m3u8
+#EXTINF:-1,Syfy
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_42_syfy.m3u8
+#EXTINF:-1,Unicable
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_43_unicable.m3u8
+#EXTINF:-1,Fox life
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_44_foxlife.m3u8
+#EXTINF:-1,E! Entertainment Television
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_45_eentertainmenttelevision.m3u8
+#EXTINF:-1 tvg-logo="http://static1.squarespace.com/static/5678a2e369492e98e2c3f562/t/59eeb90429f1875b3b6e82e2/1509952320468/?format=1500w"
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_46_foxmovieshd.m3u8
+#EXTINF:-1,AyM Sports
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_47_aymsports.m3u8
+#EXTINF:-1,A&E
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_48_ae.m3u8
+#EXTINF:-1,Nick Jr
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_49_nickjr.m3u8
+#EXTINF:-1,CBeebies
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_50_cbeebies.m3u8
+#EXTINF:-1,Boomerang
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_51_boomerang.m3u8
+#EXTINF:-1,Fox Classics
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_52_foxclassics.m3u8
+#EXTINF:-1,Fox Cinéma TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_53_foxcinma.m3u8
+#EXTINF:-1,Golden
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_54_golden.m3u8
+#EXTINF:-1,Studio Universal
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_56_studiouniversal.m3u8
+#EXTINF:-1,TCM
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_57_tcm.m3u8
+#EXTINF:-1,BBC Entertainment
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_58_bbcentertainment.m3u8
+#EXTINF:-1,Comedy Central
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_59_comedycentral.m3u8
+#EXTINF:-1,TBS
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_60_tbs.m3u8
+#EXTINF:-1,Discovery Civilization
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
+#EXTINF:-1,Discovery Science
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_62_discoveryscience.m3u8
+#EXTINF:-1,Discovery Turbo
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_63_discoveryturbo.m3u8
+#EXTINF:-1,Discovery Theater
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_64_discoverytheater.m3u8
+#EXTINF:-1,Investigación Discovery
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+#EXTINF:-1,Home and Health TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_66_homeandhealth.m3u8
+#EXTINF:-1,Glitz
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_67_glitz.m3u8
+#EXTINF:-1,HMX TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
+#EXTINF:-1,I.Sat
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
+#EXTINF:-1,Nick Toons
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_70_nicktoons.m3u8
+#EXTINF:-1,El Gourmet
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_71_elgourmet.m3u8
+#EXTINF:-1,Gala TV TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_72_galatv.m3u8
+#EXTINF:-1,TruTV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_73_trutv.m3u8
+#EXTINF:-1,AXN
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_74_axn.m3u8
+#EXTINF:-1,Warner
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_76_warner.m3u8
+#EXTINF:-1,Fox Sports 2
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8
+#EXTINF:-1,Universal
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_78_universal.m3u8
+#EXTINF:-1,The Film Zone
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+#EXTINF:-1,Nick
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_80_nick.m3u8
+#EXTINF:-1,Space
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_81_space.m3u8
+#EXTINF:-1,NatGeo Wild
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_82_natgeowild.m3u8
+#EXTINF:-1,History TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_83_history.m3u8
+#EXTINF:-1,Bandamax
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_84_bandamax.m3u8
+#EXTINF:-1,De Película
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_85_depelcula.m3u8
+#EXTINF:-1,Discovery World
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_87_discoveryworld.m3u8
+#EXTINF:-1,Fox Action
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_88_foxaction.m3u8
+#EXTINF:-1,Fox 1 TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_89_fox1.m3u8
+#EXTINF:-1,Az Corazón
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_90_azcorazn.m3u8
+#EXTINF:-1,VH1
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_91_vh1.m3u8
+#EXTINF:-1,VH1 Classic
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_92_vh1classic.m3u8
+#EXTINF:-1,MTV Hits
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_93_mtvhits.m3u8
+#EXTINF:-1,MTV Live
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_94_mtvlive.m3u8
+#EXTINF:-1,ESPN
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_95_espn.m3u8
+#EXTINF:-1,AMC
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_96_amc.m3u8
+#EXTINF:-1,Fox NatGeo TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_98_foxnatgeo.m3u8
+#EXTINF:-1,TeleFormula
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_99_teleformula.m3u8
+#EXTINF:-1,Telehit
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_100_telehit.m3u8
+#EXTINF:-1,Foro TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_101_forotv.m3u8
+#EXTINF:-1,Fox Sports
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_102_foxsports.m3u8
+#EXTINF:-1,ESPN +
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_103_espn+.m3u8
+#EXTINF:-1,Garaje TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_104_garajetv.m3u8
+#EXTINF:-1,TLC
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_105_tlc.m3u8
+#EXTINF:-1,WOBI TV TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_107_wobitv.m3u8
+#EXTINF:-1,UTV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_108_utv.m3u8
+#EXTINF:-1,Proyecto 40
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_109_proyecto40.m3u8
+#EXTINF:-1,HOLA TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_110_holatv.m3u8
+#EXTINF:-1,Milenio TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_111_mileniotv.m3u8
+#EXTINF:-1,Fashion TV TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_112_fashiontv.m3u8
+#EXTINF:-1,Az Mundo
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_113_azmundo.m3u8
+#EXTINF:-1,Az Cinéma
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_114_azcinma.m3u8
+#EXTINF:-1,Cinemax (O)
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_115_cinemaxo.m3u8
+#EXTINF:-1,Az Click!
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_116_azclick.m3u8
+#EXTINF:-1,Imagen TV
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_118_imagentv.m3u8
+#EXTINF:-1,Cinecanal TECNO-WILL
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_119_cinecanal.m3u8
+#EXTINF:-1,Universal Channel TEST
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_129_universalchanneltest.m3u8
+#EXTINF:-1,Nat Geo Kids
+#EXTGRP:respaldo
+http://iptv.premiumtutv.com/canal_132_natgeokids.m3u8
+
+
+
+
+#EXTINF:0,CANAL EL NUEVE ARGENTINA
+#EXTGRP:Argentina
+http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:0,TEN HD ARGENTINA
+#EXTGRP:Argentina
+http://stream.grupoabchn.com:1935/TENHD/TENLive.smil/chunklist_w1445105875_b1848000.m3u8
+#EXTINF:0,TELEFE
+#EXTGRP:Argentina
+http://us.watcha.live/ch6/hi.m3u8
+#EXTINF:0,CANAL EL TRECE ARGENTINA
+#EXTGRP:Argentina
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:0,AMERICA TV
+#EXTGRP:Argentina
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:0,CANAL 9 SALTA
+#EXTGRP:Argentina
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0,Canal 11 Formosa
+#EXTGRP:Argentina
+http://stream1.livestreamingservices.com:1935/tvcanal11/tvcanal11/index.m3u8
+#EXTINF:0,Encuentro
+#EXTGRP:Argentina
+http://lsdencuentrohls-lh.akamaihd.net/i/encuentrohls_1@96967/master.m3u8
+#EXTINF:0,Canal 4 Balcarce
+#EXTGRP:Argentina
+http://panel.dattalive.com:1935/8124/8124/chunklist_w283163661.m3u8
+#EXTINF:0,DeporTV 3
+#EXTGRP:Argentina
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,Canal 9 Salta2
+#EXTGRP:Argentina
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal Provincial San Miguel
+#EXTGRP:Argentina
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,Litus TV Santa Fe
+#EXTGRP:Argentina
+http://192.99.38.174:1935/litustv/ngrp:litustv_all/playlist.m3u8
+#EXTINF:0,CANAL 13 Max Digital
+#EXTGRP:Argentina
+http://coninfo.net:1935/13max/live/chunklist.m3u8
+#EXTINF:0,Telemax
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Canal 4 Jujuy1
+#EXTGRP:Argentina
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,Diputados TV
+#EXTGRP:Argentina
+http://lsdhcdnhls-lh.akamaihd.net/i/hcdnarsatHLS_2@301805/master.m3u8
+#EXTINF:0,Canal 2 Telpin Pinamar1
+#EXTGRP:Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8
+#EXTINF:0,Canal 26 Buenos Aires2
+#EXTGRP:Argentina
+http://200.115.193.177/live/26hd-480/.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal 3 Pinamar
+#EXTGRP:Argentina
+http://wowza.telpin.com.ar:1935/canal3/canal3.stream/playlist.m3u8
+#EXTINF:0,Canal 26 Buenos Aires1
+#EXTGRP:Argentina
+http://200.115.193.177/live/26hd-720/.m3u8
+#EXTINF:0,Radio One
+#EXTGRP:Argentina
+http://server5.stweb.tv/radioone/live/playlist.m3u8
+#EXTINF:0,Canal 5 Concepcion Tucuman
+#EXTGRP:Argentina
+http://5.179.201.88:1935/golive/59_179_live/playlist.m3u8
+#EXTINF:0,13 Max Corrientes
+#EXTGRP:Argentina
+http://coninfo.net:1935/13max/live/chunklist_w649322582.m3u8
+#EXTINF:0,El 10 Salta
+#EXTGRP:Argentina
+http://173.244.209.235:1935/viviloendirecto/psigroup/chunklist_w349709429.m3u8
+#EXTINF:0,Canal 2 Telpin Pinamar2
+#EXTGRP:Argentina
+http://wowza.telpin.com.ar:1935/telpintv/ttv.stream_720p/playlist.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal 26 Buenos Aires4
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w1700708876_b1264000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Tec TV
+#EXTGRP:Argentina
+http://tectvhls-lh.akamaihd.net/i/tectvHLS_1@334993/master.m3u8
+#EXTINF:0,Canal 2 Telpin Pinamar3
+#EXTGRP:Argentina
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0,Canal Local Olavarria
+#EXTGRP:Argentina
+http://186.0.180.11:1935/festival/mp4:festival/playlist.m3u8
+#EXTINF:0,Quiero Musica
+#EXTGRP:Argentina
+mms://200.42.92.6:1755/qmusica
+#EXTINF:0,DeporTV 1
+#EXTGRP:Argentina
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8
+#EXTINF:0,AMERICA [NoKodi]
+#EXTGRP:Argentina
+http://ar.watcha.live/ch3/hi.m3u8
+#EXTINF:0,Canal 10 Rionegrina
+#EXTGRP:Argentina
+http://panel.dattalive.com:1935/8204/8204/playlist.m3u8
+#EXTINF:0,Canal 26 Buenos Aires3
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:c26.smil/chunklist_w188793591_b1864000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal 11 La Rioja
+#EXTGRP:Argentina
+http://stmv4.questreaming.com/fenixlarioja/fenixlarioja/playlist.m3u8?wowzasessionid=1078160479
+#EXTINF:0,El Nueve [NoKodi]
+#EXTGRP:Argentina
+http://ar.watcha.live/ch5/hi.m3u8
+#EXTINF:0,El 1 Web TV La Matanza
+#EXTGRP:Argentina
+http://server4.stweb.tv/unlam/ngrp:video1_all/playlist.m3u8
+#EXTINF:0,5TV Corrientes
+#EXTGRP:Argentina
+http://www.coninfo.net:1935/tvcinco/live1/chunklist_w1546509083.m3u8
+#EXTINF:0,Tele Junin
+#EXTGRP:Argentina
+http://stream.shockmedia.com.ar:1935/9618/9618/chunklist_w2145169684.m3u8
+#EXTINF:0,Canal 4 Jujuy2
+#EXTGRP:Argentina
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,TV Publica [NoKodi]
+#EXTGRP:Argentina
+http://ar.watcha.live/ch4/hi.m3u8
+#EXTINF:0,Canal 4 Esquel
+#EXTGRP:Argentina
+http://arcast.tv:1935/envivo/canal4esquel/playlist.m3u8
+#EXTINF:0,Radio TV Neuquen
+#EXTGRP:Argentina
+http://media.neuquen.gov.ar/rtn/television/chunklist_w1330236482.m3u8
+#EXTINF:0,TyC Sports (New!)
+#EXTGRP:Argentina
+https://vivoplay-i.akamaihd.net/hls/live/579609/tyc/master1000k.m3u8
+#EXTINF:0,DeporTV 2
+#EXTGRP:Argentina
+http://186.33.227.198/DXTV/smil:DXTV.smil/chunklist_w422200342_b800000_slesp.m3u8
+#EXTINF:0,Music Top
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,Power HD
+#EXTGRP:Argentina
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,Canal 9 Salta1
+#EXTGRP:Argentina
+http://panel.dattalive.com:1935/8250/8250/playlist.m3u8
+#EXTINF:0,Canal 13 [NoKodi]
+#EXTGRP:Argentina
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:0,Canal 4 Posadas
+#EXTGRP:Argentina
+http://184.154.28.210:1935/canal4/canal4/live.m3u8
+#EXTINF:0,TDC Online Firmat
+#EXTGRP:Argentina
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:0,Canal 79 Mar del Plata
+#EXTGRP:Argentina
+http://painel.serveron.com.br:1935/8168/8168/live.m3u8
+#EXTINF:0,Soy Rock
+#EXTGRP:Argentina
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:0,Canal 26 Buenos Aires5
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar:1935/live/26hd-720/livestream.m3u8
+#EXTINF:0,Telefe [NoKodi]
+#EXTGRP:Argentina
+http://ar.watcha.live/ch6/hi.m3u8
+#EXTINF:0,EL 13
+#EXTGRP:Argentina
+http://ar.watcha.live/ch7/hi.m3u8
+#EXTINF:0,Pakapaka
+#EXTGRP:Argentina
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,CANAL TDC
+#EXTGRP:Argentina
+http://painel.serveron.com.br:1935/8166/8166/live.m3u8
+#EXTINF:0,XFN Canal 41 Mar del Plata
+#EXTGRP:Argentina
+http://painel.serveron.com.br:1935/8172/8172/playlist.m3u8
+#EXTINF:0,CPE TV Santa Rosa
+#EXTGRP:Argentina
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/master.m3u8
+#EXTINF:0,CANAL TLX
+#EXTGRP:Argentina
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal Provincial
+#EXTGRP:Argentina
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,A24 [NoKodi]
+#EXTGRP:Argentina
+http://ar.watcha.live/ch2/hi.m3u8
+#EXTINF:0,Aire de Santa Fe
+#EXTGRP:Argentina
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0,Canal 2 Dean Funes
+#EXTGRP:Argentina
+http://streaming.arcast.tv:1935/envivo/marcos/chunklist_w1699680288.m3u8
+
+
+
+
+#EXTINF:0,CHV sin geo
+#EXTGRP:chile
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:0,la red 1 HD
+#EXTGRP:chile
+http://d28d7tc1ojykcy.cloudfront.net/lared/smil:lared.smil/playlist.m3u8
+#EXTINF:0, Tele trece
+#EXTGRP:chile
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:0, azteca 1
+#EXTGRP:chile
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+
+
+#EXTINF:0, cablenoticias
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0, cali tv
+#EXTGRP:colombia
+http://video.cehis.net/live-calitv/calitv1/playlist.m3u8
+#EXTINF:0, canal antiestres
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:0, canal tro
+#EXTGRP:colombia
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist_p750000.m3u8
+#EXTINF:0, cosmovision
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8
+#EXTINF:0, El tiempo
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TIEM/tu1_1.m3u8
+#EXTINF:0, Life design
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:0, Mi gente tv
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MGEN/tu1_1.m3u8
+#EXTINF:0,rcn
+#EXTGRP:colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?exabytetv.info?.m3u
+#EXTINF:0,Teleantioquia
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8
+#EXTINF:0,Telecafe
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8
+#EXTINF:0,Telemedellin
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:0,Televid
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0,cosmovision
+#EXTGRP:colombia
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:0, RCN COLOMBIA
+#EXTGRP:colombia
+https://mdstrm.com/live-stream-playlist/58a36704896500b908cf1abe.m3u8?tecnotv.info?.m3u8
+#EXTINF:0, CARACOL
+#EXTGRP:colombia
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/185.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Unimas
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/145.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Univisión
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/144.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Natgeo
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/13.m3u8
+#EXTINF:-1,Proyecto 40
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_109_proyecto40.m3u8
+#EXTINF:-1,Garaje TV
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_104_garajetv.m3u8
+#EXTINF:0,teleformula
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_99_teleformula.m3u8
+#EXTINF:0,History
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_83_history.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/42.m3u8
+#EXTINF:0, Entretenimiento de BBC
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_58_bbcentertainment.m3u8
+#EXTINF:0,BBC World News
+#EXTGRP:Cultura
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/BBCW/tu1_1.m3u8
+#EXTINF:0,Animal Planet
+#EXTGRP:Cultura
+http://freeiptv.apisecurers.com/canal_28_animalplanet.m3u8
+#EXTINF:0,WOBI TV
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_107_wobitv.m3u8
+#EXTINF:0,Discovery Channel
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/135.m3u8
+#EXTINF:0,Discovery Civilization
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_61_discoverycivilization.m3u8
+#EXTINF:0,Discovery Theater
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/134.m3u8
+#EXTINF:0,DISCOVERY TURBO
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/16.m3u8
+#EXTINF:0,Discovery World
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/133.m3u8
+#EXTINF:0,TLC
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/12.m3u8
+#EXTINF:0,Home and Health
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/15.m3u8
+#EXTINF:0,Investigación Discovery
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_65_investigacindiscovery.m3u8
+#EXTINF:0,Discovery Science
+#EXTGRP:Cultura
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/112.m3u8
+#EXTINF:0,Glitz
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_67_glitz.m3u8
+#EXTINF: -1, A y E
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_48_ae.m3u8
+#EXTINF:0, TV HMX
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_68_hmxtv.m3u8
+#EXTINF:0,El Gourmet
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_71_elgourmet.m3u8
+#EXTINF: -1, Gala TV
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_72_galatv.m3u8
+#EXTINF: -1, UTV
+#EXTGRP:Cultura
+http://iptv.premiumtutv.com/canal_108_utv.m3u8
+
+
+
+
+
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,TCM
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/122.m3u8
+#EXTINF:0,Fox life
+#EXTGRP:Cine 
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/110.m3u8
+#EXTINF:0,Az Cinéma
+#EXTGRP:Cine 
+http://freeiptv.apisecurers.com/canal_114_azcinma.m3u8
+#EXTINF:0,AMC 2
+#EXTGRP:Cine 
+http://s1.iptv61w.com:25461/live/juan02/juan02/3742.m3u8
+#EXTINF:0,Golden
+#EXTGRP:Cine
+http://freeiptv.apisecurers.com/canal_54_golden.m3u8
+#EXTINF:0,De Película
+#EXTGRP:Cine
+http://freeiptv.apisecurers.com/canal_85_depelcula.m3u8
+#EXTINF:0,CINE +  S. y L
+#EXTGRP:Cine
+http://189.86.89.116/hls-live/livecm/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,peliculas HD
+#EXTGRP:Cine
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+#EXTINF:0,Golden Edge
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_37_goldenedge.m3u8
+#EXTINF:0,RAI movie HD
+#EXTGRP:Cine
+http://b2everyrai-lh.akamaihd.net/i/raimovie_1@67348/master.m3u8
+#EXTINF:0,Fox 1
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_89_fox1.m3u8
+#EXTINF:0,peliculas 2017
+#EXTGRP:Cine
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
+#EXTINF:0,PANICO HD
+#EXTGRP:Cine
+https://latamonly-lh.akamaihd.net/i/panicohd_1@578061/master.m3u8
+#EXTINF:0,Cinecanal (W)
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_27_cinecanalw.m3u8
+#EXTINF:0,DCine
+#EXTGRP:Cine
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/dcine/playlist.m3u8
+#EXTINF:0,Fox NatGeo
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_98_foxnatgeo.m3u8
+#EXTINF:0,PARAMOUNT HD
+#EXTGRP:Cine
+http://s1.iptv61w.com:25461/live/juan02/juan02/4543.m3u8
+#EXTINF:0,peliculas opc2
+#EXTGRP:Cine
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+#EXTINF:0,cinecalidad
+#EXTGRP:Cine
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:0,BHTV
+#EXTGRP:Cine
+http://cdn2.ujjina.com:1935/iptvbhtv/livebhtvtv/playlist.m3u8
+#EXTINF:0,TBS
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_60_tbs.m3u8
+#EXTINF:0,max prime
+#EXTGRP:Cine
+http://200.78.215.85:8010/play/a09w
+#EXTINF:0,TNT HD
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/64.m3u8
+#EXTINF:0,TNT series
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/63.m3u8
+#EXTINF:0,Warner Chanel
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/57.m3u8
+#EXTINF:0,SYFY
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/51.m3u8
+#EXTINF:0,TNT Series
+#EXTGRP:Cine
+http://freeiptv.apisecurers.com/canal_39_tntseries.m3u8
+#EXTINF:0,THE FILMZONE
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_79_thefilmzone.m3u8
+#EXTINF:0,Fox HD
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/66.m3u8
+#EXTINF:0,FXM
+#EXTGRP:Cine
+http://www.iptvmexico.xyz/ch/220.m3u8
+#EXTINF:0,FX
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_29_fx.m3u8
+#EXTINF:0,FXX
+#EXTGRP:Cine
+http://216.31.255.235/hlsl/4/beSteSTamE5uFXX/beSteSTamE5uFXX.m3u8
+#EXTINF:0,Fox Movies
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/25.m3u8
+#EXTINF:0,Fox Action
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/28.m3u8
+#EXTINF:0,Fox Classics
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/26.m3u8
+#EXTINF:0,Fox series
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/24.m3u8
+#EXTINF:0,Fox Family
+#EXTGRP:Cine
+http://200.78.215.85:8010/play/a0b4
+#EXTINF:0,Fox Cinéma
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/27.m3u8
+#EXTINF:0,A&E
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/92.m3u8
+#EXTINF:0,HBO
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/169.m3u8
+#EXTINF:0,HBO Plus
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/168.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,HBO Signature HD
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/167.m3u8
+#EXTINF:0,HBO 2
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/184.m3u8
+#EXTINF:0,HBO Family
+#EXTGRP:Cine
+http://200.78.215.85:8010/play/a09u
+#EXTINF:0,Universal Channel HD
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/87.m3u8
+#EXTINF:0,Golden plus HD
+#EXTGRP:Cine
+http://189.216.247.113/Content/HLS/Live/Channel(GOLDEN_HD)/Stream(06)/index.m3u8
+#EXTINF:0,Sony
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/32.m3u8
+#EXTINF:0,COMEDY CENTRAL
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/79.m3u8
+#EXTINF:0,Space
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/65.m3u8
+#EXTINF:0,cinemax
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/49.m3u8
+#EXTINF:0,MEGA
+#EXTGRP:Cine
+http://a3live-lh.akamaihd.net/i/mghds/geomega_1@328914/index_3_av-b.m3u8
+#EXTINF:0,AXN
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/86.m3u8
+#EXTINF:0,AMC
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/50.m3u8
+#EXTINF:0,Isat
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_69_i.sat.m3u8
+#EXTINF:0,Telecine Action
+#EXTGRP:Cine
+http://BelcoCanaisHdPremium@stmv2.srvstm.com/mandruva/mandruva/playlist.m3u8
+#EXTINF:0,Studio Universal
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/41.m3u8
+#EXTINF:0,Neox
+#EXTGRP:Cine
+http://a3live-lh.akamaihd.net/i/nxhds/geoneox_1@35261/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Cinecanal
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/119.m3u8
+#EXTINF:0,Movie Plus
+#EXTGRP:Cine
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs10.stream/playlist.m3u8
+#EXTINF:0, de pelicula
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_85_depelcula.m3u8
+#EXTINF:-1,Distrito Comedia
+#EXTGRP:Cine
+http://iptv.premiumtutv.com/canal_121_distritocomediafixed.m3u8
+#EXTINF:-1,MULTICINEMA HD 
+#EXTGRP:Cine
+https://latamonly-lh.akamaihd.net/i/mchd_1@576706/master.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Az Cinema
+#EXTGRP:Cine
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/29.m3u8
+
+
+
+
+
+
+#EXTINF:0,tvg-logo="https://i2.wp.com/www.kadri.mx/wp-content/uploads/2016/05/r-1.png?fit=600%2C350&ssl=1",Bandmax
+#EXTGRP:Musica
+http://iptv.premiumtutv.com/canal_84_bandamax.m3u8
+#EXTINF:0,Music Choice Throwback Jamz
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC142/chunklist.m3u8
+#EXTINF:0,Wow
+#EXTGRP:Musica
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,Radio Marcela (99.1 FM Huasco)
+#EXTGRP:Musica
+http://stream5.eltelon.com/archi-marcela.aac?type=.flv
+#EXTINF:0,Santiago (Orquestada) (690 AM)
+#EXTGRP:Musica
+http://167.114.119.122:9982/;stream/1
+#EXTINF:0,Music Choice Dance
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:0,Radio Positiva (FM 105.5 FM Concepcion)
+#EXTGRP:Musica
+http://mimix.mercurio.cl:8000/concepcion2
+#EXTINF:0,Radio Llacolen (1600 AM Concepcion)
+#EXTGRP:Musica
+http://sc.digitalproserver.com:9532/;
+#EXTINF:0,VH1 classic
+#EXTGRP:Musica
+http://iptv.premiumtutv.com/canal_92_vh1classic.m3u8
+#EXTINF:0,MTV Live
+#EXTGRP:Musica
+http://iptv.premiumtutv.com/canal_94_mtvlive.m3u8
+#EXTINF:0,MTV Hits
+#EXTGRP:Musica
+http://iptv.premiumtutv.com/canal_93_mtvhits.m3u8
+#EXTINF:0,Bandamax
+#EXTGRP:Musica
+http://freeiptv.apisecurers.com/canal_84_bandamax.m3u8
+#EXTINF:0,VH1
+#EXTGRP:Musica
+http://iptv.premiumtutv.com/canal_91_vh1.m3u8
+#EXTINF:0,MC MUSIC
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0,Radio Caramelo (99.5 FM Los Angeles)
+#EXTGRP:Musica
+http://sc6.digitalproserver.com:8120/;
+#EXTINF:0,Radio Comunicativa (93.7 FM Ovalle)
+#EXTGRP:Musica
+http://ip.audiostreaming.cl:9996/;
+#EXTINF:0,Ritmoson Latino
+#EXTGRP:Musica
+http://freeiptv.apisecurers.com/canal_41_ritmosonlatino.m3u8
+#EXTINF:0,Digital FM (91.1 FM)
+#EXTGRP:Musica
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:0,La Mega Mundial
+#EXTGRP:Musica
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/chunklist_w1614152194.m3u8 
+#EXTINF:0,Mi Musica Latino HD
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8?
+#EXTINF:0,Alternative
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:0,R&B Soul
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8?JoCaRoIPTV.m3u8
+#EXTINF:0,Pop & Country
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:0,Metal
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:0,Virgin Music
+#EXTGRP:Musica
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0,Vibee TV
+#EXTGRP:Musica
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:0,Top Latino
+#EXTGRP:Musica
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist_w1282322208.m3u8
+#EXTINF:0,Rock
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:0,Mexicana
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:0,Pop Latino
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0,Indie
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:0,Rap
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:0,Cantinazo TV
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0,MTV
+#EXTGRP:Musica
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/mtv/playlist.m3u8
+#EXTINF:0,Pop Hits
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0,Telehit
+#EXTGRP:Musica
+http://iptv.premiumtutv.com/canal_100_telehit.m3u8
+#EXTINF:0,Tropicales
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0,Dance/EDM
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC127/chunklist.m3u8
+#EXTINF:0,Hit List
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:0,Teleritmo
+#EXTGRP:Musica
+http://mdstrm.com/live-stream-playlist/57b4dc126338448314449d0c.m3u8
+#EXTINF:0,MTV LIVE
+#EXTGRP:Musica
+http://189.216.247.113/Content/HLS/Live/Channel(MTV_Live_HD)/index.m3u8
+#EXTINF:0,Hip-Hop And R&B
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:0,Cool 103.7
+#EXTGRP:Musica
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0,MC Music Choice
+#EXTGRP:Musica
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,Melody Channel
+#EXTGRP:Musica
+http://186.155.200.118:1935/live/MelodyChannel/playlist.m3u8
+#EXTINF:0,MiMusica
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0,Music Choice Indie
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC129/chunklist.m3u8
+#EXTINF:0,Sonar (105.3)
+#EXTGRP:Musica
+http://mp3.sonarfm.cl/;
+#EXTINF:0,Radio Galaxia (Online)
+#EXTGRP:Musica
+http://sscl.denialstream.com:8830/;stream/1.mp3
+#EXTINF:0,Radio La Discusion (94.7 FM Chillan)
+#EXTGRP:Musica
+http://stream5.eltelon.com/radio-la-discusion.aac
+#EXTINF:0,Music Choice Musica Urbana
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC128/chunklist.m3u8
+#EXTINF:0,Radio Entretenida FM (92.5 FM Vilcun)
+#EXTGRP:Musica
+http://atanua.broadcastchile.cl:7000/;
+#EXTINF:0,Radio Extrema (106.1 FM Puerto Saavedra)
+#EXTGRP:Musica
+http://stream5.eltelon.com/radio-extrema.aac
+#EXTINF:0,Radio Atractiva (FM 95.3 Concepcion)
+#EXTGRP:Musica
+http://5.9.65.9:8062/atractiva
+#EXTINF:0,Music Choice Alternative
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC122/chunklist.m3u8
+#EXTINF:0,TOP LATINO TV  s. y L
+#EXTGRP:Musica
+http://online.radiodifusion.net:1935/livetv/latinoSD.stream/chunklist.m3u8
+#EXTINF:0,Concierto La Ley
+#EXTGRP:Musica
+https://vodvivoplay.akamaized.net/hls/delivery/geo9/vdm_la_ley_031215_500k.m3u8
+#EXTINF:0,Music Choice Pop Latino
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC123/chunklist.m3u8
+#EXTINF:0,MI MUSICA HD SNAKE
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0,Positiva (98.5 FM Temuco)
+#EXTGRP:Musica
+http://mimix.mercurio.cl:8000/temuco2
+#EXTINF:0,Music Choice R&amp;B Soul
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC124/chunklist.m3u8
+#EXTINF:0,Radio Uno (97.1 FM)
+#EXTGRP:Musica
+http://14073.live.streamtheworld.com/RADIO_UNO_SC
+#EXTINF:0,Music Choice Y2K
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC145/chunklist.m3u8
+#EXTINF:0,MIMUSICA HD
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MMHD/tu1_1.m3u8
+#EXTINF:0,Vibee [SD]
+#EXTGRP:Musica
+http://46.101.21.42:8081/live/live2/playlist.m3u8
+#EXTINF:0,Radio 1049 (FM 104.9 Pucon)
+#EXTGRP:Musica
+http://audio.streaminghd.cl:8034/;
+#EXTINF:0,Radio Sol (97.7 FM Antofagasta)
+#EXTGRP:Musica
+http://online.radiosol.cl:8000/;
+#EXTINF:0,Music Choice Pop &amp; Country
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC132/chunklist.m3u8
+#EXTINF:0,FM Tiempo (95.9 FM)
+#EXTGRP:Musica
+http://tunein.digitalproserver.com/fmtiempobb.mp3
+#EXTINF:0,Bio-Bio La Radio Santiago (99.7 FM)
+#EXTGRP:Musica
+http://unlimited1-cl.dps.live/biobiosantiago/aac/icecast.audio
+#EXTINF:0,Duna (89.7 FM)
+#EXTGRP:Musica
+http://tunein.digitalproserver.com/dunabb.aac
+#EXTINF:0,Beethoven (96.5 FM)
+#EXTGRP:Musica
+http://tunein.digitalproserver.com/beethovenbb.aac
+#EXTINF:0,Radio Madero (102.5 FM Antofagasta)
+#EXTGRP:Musica
+http://unlimited1-cl.digitalproserver.com/madero_antofagasta/mp3/icecast.audio
+#EXTINF:0,Radio Chilena Concepcion (1030 AM)
+#EXTGRP:Musica
+http://unlimited1-cl.digitalproserver.com/chilena/aac/icecast.audio
+#EXTINF:0,MUSICTOP
+#EXTGRP:Musica
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:0,Radio Genesis (94.1 FM Andacollo)
+#EXTGRP:Musica
+http://stream5.eltelon.com/genesis-andacollo.aac
+#EXTINF:0,Loactual (96.7 FM Calama)
+#EXTGRP:Musica
+http://rs.comtic.net:8000/;
+#EXTINF:0,Music Choice Today
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC121/chunklist.m3u8
+#EXTINF:0,TRENDY MUSICA
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8
+#EXTINF:0,Radio ? (? FM ?)
+#EXTGRP:Musica
+http://167.114.208.100:9844/;
+#EXTINF:0,Music Choice Pop Hits
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC133/chunklist.m3u8
+#EXTINF:0,Radio Alegria del Transporte (90.9 FM Calama)
+#EXTGRP:Musica
+http://s6.medionline.cl:9364/;
+#EXTINF:0,Radio Zero (97.7 FM)
+#EXTGRP:Musica
+http://tunein.digitalproserver.com/zerobb.aac
+#EXTINF:0,Music Choice Teen Beats
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC118/chunklist.m3u8
+#EXTINF:0,Radio Illapel (96.5 FM Illapel)
+#EXTGRP:Musica
+http://200.111.113.18:8500/;
+#EXTINF:0,Radio Sol (97.7 FM Antofagasta)(Alt)
+#EXTGRP:Musica
+http://stream5.eltelon.com/sol-radio.aac
+#EXTINF:0,Radio Ventisqueros (97.7 FM Coyhaique)
+#EXTGRP:Musica
+http://stream5.eltelon.com:8000/ventisqueros.aac
+#EXTINF:0,Telemetro Radio LATINO
+#EXTGRP:Musica
+http://live.medcom.com.pa/live/tmradio.stream_live/playlist.m3u8
+#EXTINF:0,Radio Primavera FM (93.5 FM Arica)
+#EXTGRP:Musica
+http://cast.radioservicios.cl:9350/web
+#EXTINF:0,Radio Bio Bio Temuco (88.1 FM Temuco)
+#EXTGRP:Musica
+http://ice.dallas.digitalproserver.com/biotemu
+#EXTINF:0,Music Choice Rap
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC125/chunklist.m3u8
+#EXTINF:0,Radio Fenomenal (93.9 FM Coyhaique)
+#EXTGRP:Musica
+http://stream5.eltelon.com/fenomenal.aac
+#EXTINF:0,Oasis (102.1 FM)
+#EXTGRP:Musica
+http://mp3.oasisfm.cl/;
+#EXTINF:0,Radio Almeyda (94.3 FM Diego de Almagro)
+#EXTGRP:Musica
+http://192.99.18.164:9974/stream
+#EXTINF:0,Music Choice Metal
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC139/chunklist.m3u8
+#EXTINF:0,Radio Coyhaique (95.3 FM Coyhaique)
+#EXTGRP:Musica
+http://stream5.eltelon.com/radio-coyhaique.aac
+#EXTINF:0,FM OK (89.3 FM Antofagasta)
+#EXTGRP:Musica
+http://streaming.fmokey.cl:8000/FmOkAT.mp3
+#EXTINF:0,Radio Magistral (93.9 FM Galvarino)
+#EXTGRP:Musica
+http://www.magistralfm.cl:9110/galvarino
+#EXTINF:0,Futura FM (100.7 Talca)
+#EXTGRP:Musica
+http://stream5.eltelon.com/futura.aac
+#EXTINF:0,Portales (1180 AM)
+#EXTGRP:Musica
+http://s6.jcwebnew.com:8060/stream
+#EXTINF:0,Maxima FM (88.1 FM Antofagasta)
+#EXTGRP:Musica
+http://cast3.serverhost.cl:8764/;
+#EXTINF:0,Radio Nueva Genial (100.5 FM Coyhaique)
+#EXTGRP:Musica
+http://s6.jcwebnew.com:7555/stream
+#EXTINF:0,Music Choice Tropicales
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC137/chunklist.m3u8
+#EXTINF:0,Radio Mirador (90.9 FM Lautaro)
+#EXTGRP:Musica
+http://demo.dyndns.biz:8016/;
+#EXTINF:0,Radio Genesis (96.5 FM Curacautin)
+#EXTGRP:Musica
+http://stream5.eltelon.com/genesis.aac
+#EXTINF:0,Amanda (94.9 FM Buin)
+#EXTGRP:Musica
+http://amanda.cmtelcom.com/amanda128
+#EXTINF:0,Radio Anglo Latina (Online)
+#EXTGRP:Musica
+http://streaming.radioanglolatina.com:8012/;
+#EXTINF:0,Radio Sur (92.1 FM Los Angeles)
+#EXTGRP:Musica
+http://ww3.radiosur.cl:5074/rsur
+#EXTINF:0,Paula (106.9 FM)
+#EXTGRP:Musica
+http://tunein.digitalproserver.com/paulafm.mp3
+#EXTINF:0,Music Choice Kidz Only
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC130/chunklist.m3u8
+#EXTINF:0,Aternativa FM (Online - Huasco)
+#EXTGRP:Musica
+http://107.155.120.114:9944/;
+#EXTINF:0,NIU Radio
+#EXTGRP:Musica
+http://live-origin.us.niu.cl/niu_radio.aac
+#EXTINF:0,FM Mas (89.1 Arica)
+#EXTGRP:Musica
+http://cast.radioservicios.cl:8026/fmmas
+#EXTINF:0,TELEMUSICA
+#EXTGRP:Musica
+http://186.155.200.118:1935/live/telemusica/playlist.m3u8
+#EXTINF:0,Santiago (Romantica) (690 AM)
+#EXTGRP:Musica
+http://167.114.119.122:9978/;stream/1
+#EXTINF:0,Radio Udec (95.1 FM Concepcion)
+#EXTGRP:Musica
+http://radio.udec.cl:8000/radioudec
+#EXTINF:0,Radio Cariñosa (92.1 FM)(1)
+#EXTGRP:Musica
+http://stream5.eltelon.com/carinosa-chillan.aac
+#EXTINF:0,Radio Plus FM (106.9 FM Antofagasta)
+#EXTGRP:Musica
+http://sonando.us.digitalproserver.com/fmplus_aac
+#EXTINF:0,Arcoiris (99.3 FM Coyhaique)
+#EXTGRP:Musica
+http://s6.jcwebnew.com:8120/;
+#EXTINF:0,Radio Esperanza (106.9 FM Temuco)
+#EXTGRP:Musica
+http://s6.jcwebnew.com:7800/;
+#EXTINF:0,Radio Siente (Online - Arica)
+#EXTGRP:Musica
+http://radio1.us.mediastre.am/siente.aac
+#EXTINF:0,Radio Mejillones FM (100.9 FM)
+#EXTGRP:Musica
+http://s6.medionline.cl:8006/;
+#EXTINF:0,Radio Universitaria de la Serena (94.5 FM)
+#EXTGRP:Musica
+http://radio.cic.userena.cl:8000/radio-uls
+#EXTINF:0,Radio Romina (92.5 FM Antofagasta)
+#EXTGRP:Musica
+http://198.50.154.235:10246/;
+#EXTINF:0,Universo (93.7 FM)
+#EXTGRP:Musica
+http://tunein.digitalproserver.com/universobb.aac
+#EXTINF:0,TIGO MUSIC
+#EXTGRP:Musica
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8
+#EXTINF:0,Music Choice 90
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+#EXTINF:0,Music Choice Play
+#EXTGRP:Musica
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,Radio Positiva (FM 99.5 Valdivia)
+#EXTGRP:Musica
+http://mimix.mercurio.cl:8000/valdivia2
+#EXTINF:0,Radio Centro FM (103.3 FM Antofagasta)
+#EXTGRP:Musica
+http://stream5.eltelon.com/centro.aac
+#EXTINF:0,Music Choice Brits + Hits
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC143/chunklist.m3u8
+#EXTINF:0,Concierto (88.5 FM)
+#EXTGRP:Musica
+http://17833.live.streamtheworld.com/CONCIERTO_SC
+#EXTINF:0,Radio Revelacion (101.5 FM Canete)
+#EXTGRP:Musica
+http://stream5.eltelon.com/doble-r.aac
+#EXTINF:0,Radio Okey (103.1 FM Copiapo)
+#EXTGRP:Musica
+http://streaming.fmokey.cl:8000/FmOkCP.mp3
+#EXTINF:0,Radio Canal 95 (88.1 FM Antofagasta)
+#EXTGRP:Musica
+http://sonando.us.digitalproserver.com/canal95_aac
+#EXTINF:0,Radio San Bartolome (96.7 FM La Serena)
+#EXTGRP:Musica
+http://stream5.eltelon.com/san-bartolome.aac
+#EXTINF:0,Radio Rinconada (94.3 FM Mejillones)
+#EXTGRP:Musica
+http://server4.radiostreaming.cl:8062/;
+#EXTINF:0,Music Choice Hip-Hop And R&amp;B
+#EXTGRP:Musica
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC106/chunklist.m3u8
+#EXTINF:0,Concert Channel
+#EXTGRP:Música 2
+http://s1.iptv61w.com:25461/live/juan02/juan02/7457.m3u8
+#EXTINF:0,Telehit music
+#EXTGRP:Música 2
+http://freeiptv.apisecurers.com/canal_100_telehit.m3u8
+#EXTINF:0,Rock Nacional TV
+#EXTGRP:Música 2
+http://stmv4.questreaming.com/questreaming/questreaming/playlist.m3u8
+#EXTINF:0,OTTO fm
+#EXTGRP:Música 2
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:0,Heart TV
+#EXTGRP:Música 2
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/master.m3u8
+#EXTINF:0,RETRO Music Television
+#EXTGRP:Música 2
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:0,90s
+#EXTGRP:Música 2
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC140/chunklist.m3u8
+
+
+
+#EXTINF:0,Nickelodeon (Nick)
+#EXTGRP:Infantiles
+http://freeiptv.apisecurers.com/canal_21_nickelodeonnick.m3u8
+#EXTINF:0,ACS network
+#EXTGRP:Infantiles
+http://cm.hostlagarto.com:8081/ACS-NETWORK/acs.myStream/playlist.m3u8
+#EXTINF:0,TIIN
+#EXTGRP:Infantiles
+http://freeiptv.apisecurers.com/canal_40_tiin.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Boomerang
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/136.m3u8
+#EXTINF:0,TV uno
+#EXTGRP:Infantiles
+http://k3.usastreams.com:1935/tvuno1/tvuno1/playlist.m3u8
+#EXTINF:0,Nickelodeon
+#EXTGRP:Infantiles
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/a55d7c24a00915235cdc6a6ddaaaf67b/playlist.m3u8
+#EXTINF:0,Nick Toons
+#EXTGRP:Infantiles
+http://iptv.premiumtutv.com/canal_70_nicktoons.m3u8
+#EXTINF:0,Disney Jr
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/52.m3u8
+#EXTINF:0,Nick
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/20.m3u8
+#EXTINF:0,Nat Geo Kids HD
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/88.m3u8
+#EXTINF:0,Disney XD
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/21.m3u8
+#EXTINF:0,CBeebies
+#EXTGRP:Infantiles
+http://freeiptv.apisecurers.com/canal_50_cbeebies.m3u8
+#EXTINF:0,Discovery Kids
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/124.m3u8
+#EXTINF:0,dragonball 24/7
+#EXTGRP:Infantiles
+https://clutch.vaughnsoft.net/ord/vl/goku_tv.m3u8
+#EXTINF:0,Anime TV  S. y L. )
+#EXTGRP:Infantiles
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,Animax
+#EXTGRP:Infantiles
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,Tooncast
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/131.m3u8
+#EXTINF:0,Disney Channel
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/22.m3u8
+#EXTINF:0,nick
+#EXTGRP:Infantiles
+http://200.78.215.85:8010/play/a099
+#EXTINF:0,DISCOVERY KIDS HD 1080
+#EXTGRP:Infantiles
+http://200.78.215.85:8010/play/a09a
+#EXTINF:0,Nick JR
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/19.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Nick 2
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/104.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Cartoon Network
+#EXTGRP:Infantiles
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/53.m3u8
+#EXTINF:0,dreams
+#EXTGRP:Infantiles
+https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
+#EXTINF:0,FIX Y FOXY
+#EXTGRP:Infantiles
+https://latamonly-lh.akamaihd.net/i/fixfoxi_1@576421/master.m3u8
+
+
+
+
+
+
+
+#EXTINF:-1,VTV(UY)
+#EXTGRP:Deportes
+http://198.57.27.176:8000/live/free/latin/74.ts
+#EXTINF:-1,CDF PREMIUM
+#EXTGRP:Deportes
+http://198.57.27.176:8000/live/free/latin/9.ts
+#EXTINF:-1,CDF BASICO
+#EXTGRP:Deportes
+http://198.57.27.176:8000/live/free/latin/8.ts
+#EXTINF:-1,GOL TV:
+#EXTGRP:Deportes
+http://198.57.27.176:8000/live/free/latin/38.ts
+#EXTINF:-1,FOX SPORT
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/99.m3u8
+#EXTINF:-1,FOX SPORT 3
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/35.m3u8
+#EXTINF:-1,FOX SPORT 2
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/98.m3u8
+#EXTINF:0, ESPN
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/85.m3u8
+#EXTINF:-1, ESPN plus
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/82.m3u8
+#EXTINF:-1,ESPN 2
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/84.m3u8
+#EXTINF:-1,ESPN 3
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/83.m3u8
+#EXTINF:0,Univision TDN
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/140.m3u8
+#EXTINF:0,CDO Premium
+#EXTGRP:Deportes
+http://edge1.cl.grupoz.cl/cdofree/live/chunklist_w822432298.m3u8
+#EXTINF:0, CNT Sports HD
+#EXTGRP:Deportes
+http://s1.iptv61w.com:25461/live/juan02/juan02/4739.m3u8
+#EXTINF:0, M+ Deportes
+#EXTGRP:Deportes
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/plusdeportes1/playlist.m3u8
+#EXTINF:0, TODO Deportes
+#EXTGRP:Deportes
+http://190.92.0.43:1935/securelive/tdtv85jd5EKL3xWq3/chunklist_w1241310319.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0, BeinSport
+#EXTGRP:Deportes
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live3/beinsport/playlist.m3u8
+#EXTINF:0, Movistar Deportes
+#EXTGRP:Deportes
+http://s1.iptv61w.com:25461/live/juan02/juan02/3805.m3u8
+#EXTINF:0, DirecTV Sports (Opc 2)
+#EXTGRP:Deportes
+http://s1.iptv61w.com:25461/live/juan02/juan02/8657.m3u8
+#EXTINF:0, Eurosport 2
+#EXTGRP:Deportes
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/eurosport2/playlist.m3u8
+#EXTINF:0, Bien Sports HD
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/166.m3
+#EXTINF:0, DXTV DEPORTES
+#EXTGRP:Deportes
+http://186.33.227.198/DXTV/smil:DXTV.smil/playlist.m3u8?tecnotv.info?iptv.m3u8
+#EXTINF:0, Eurosport 1
+#EXTGRP:Deportes
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/eurosport/playlist.m3u8
+#EXTINF:0, Sporting [HD]
+#EXTGRP:Deportes
+http://unlimited6-cl.dps.live/sportinghd/sportinghd.smil/playlist.m3u8
+#EXTINF:0, Fox Sports
+#EXTGRP:Deportes
+http://iptv.premiumtutv.com/canal_102_foxsports.m3u8
+#EXTINF:0, Fox Sports 2
+#EXTGRP:Deportes
+http://iptv.premiumtutv.com/canal_77_foxsports2.m3u8
+#EXTINF:0, CLARO SPORT
+#EXTGRP:Deportes
+http://jjoo2016ch01-hlsfix.clarovideo.com/Content/hls/Live/Channel(jjoo2016ch01)/Stream(05)/index.m3u8
+#EXTINF:0,Campus TV [HD] (U. de Talca)
+#EXTGRP:Deportes
+http://unlimited1-cl.dps.live/campustv/campustv.smil/playlist.m3u8
+#EXTINF:0, M+ Futbol
+#EXTGRP:Deportes
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live3/plusfutbol/playlist.m3u8
+#EXTINF:0, Directv Sport
+#EXTGRP:Deportes
+http://s1.iptv61w.com:25461/live/juan02/juan02/7343.m3u8
+#EXTINF:0, Real Madrid TV
+#EXTGRP:Deportes
+http://rmtvlive-lh.akamaihd.net/i/rmtv_1@154306/master.m3u8
+#EXTINF:-1 tvg-logo=“https://www.androidcreator.com/srv/imgs/gen/305037_ico.png”,Win Sports
+#EXTGRP:Deportes
+http://66.70.177.196:25461/live/micinemicinemicinemicinemicinemicinemicine/dejaderobaryalostengovistosalchertvsinecesitasiptvparatuappyotevendo/186.m3u8
+
+
+
+
+
+#EXTINF:-1 group-title="24/7",Peliculas Icreme_Dreams
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
+#EXTINF:-1 group-title="24/7",CINE CALIDAD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:-1 group-title="24/7",CINE STAR 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+#EXTINF:-1 group-title="24/7",PELICULAS CLASSICAS 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+#EXTINF:-1 group-title="24/7",KATY HD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/katyhd.m3u8
+#EXTINF:-1 group-title="24/7",PELICULAS LCREME 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
+#EXTINF:-1 group-title="24/7",MEGAPELICULAS HD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+#EXTINF:-1 group-title="24/7",PELICULAS VITATO 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+#EXTINF: group-title="24/7",Choreographic 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/Chor3ograph1c.m3u8
+#EXTINF:-1 group-title="24/7",MEGA MOVIES HD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+#EXTINF:-1 group-title="24/7",zonafilmshd 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/zonafilmshd.m3u8
+#EXTINF:-1 group-title="24/7",VITATO TV 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+#EXTINF:-1 group-title="24/7",HBO LATINO 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/hbo_latino_hd.m3u8
+#EXTINF:-1 group-title="24/7",zonafilmsterror 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/zonafilmsterror.m3u8
+#EXTINF:-1 group-title="24/7",cinemexhd 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/cinemexhd.m3u8
+#EXTINF:-1 group-title="24/7",lcreme_horror24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcreme_horror.m3u8
+#EXTINF:-1 group-title="24/7",umbrella_corps 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/umbrella_corps.m3u8
+#EXTINF:0,Los Simpsons 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/4266.m3u8
+#EXTINF:0,CHESPIRITOMANIA  24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/mega_chavo.m3u8
+#EXTINF:0,PELICULAS CLASSICAS 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+#EXTINF:0,PELICULAS 2017 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcremeplushd.m3u8
+#EXTINF:0,PELICULAS HD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/mega_movieshd.m3u8
+#EXTINF:0,Canal de las Estrellas SD
+#EXTGRP:24 Horas
+http://ragnaroktv.com/hls/izzii/4/0/ESTRELLAS_SD.m3u8
+#EXTINF:0,ESTRELLA TV 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/estrellatv.m3u8
+#EXTINF:0,Alf 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/7309.m3u8
+#EXTINF:0,Futurama 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/5756.m3u8
+#EXTINF:0,PANTERA ROSA 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/7345.m3u8
+#EXTINF:0,PELICULAS OPC.2 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/vitatotv.m3u8
+#EXTINF:0,LOS SIMPSON 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/simpson_maniahd51.m3u8
+#EXTINF:0,MEGA KIDS 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/mega_kids.m3u8
+#EXTINF:0,chor3ograph1c 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/Chor3ograph1c.m3u8 
+#EXTINF:0,PEPPA PIG 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/5646.m3u8
+#EXTINF:0,CINE CALIDAD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/cine_calidad.m3u8
+#EXTINF:0,LOONEY TUNES 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/5753.m3u8
+#EXTINF:0,peliculas clasicas 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcreme_classichd.m3u8
+#EXTINF:0,CINE STAR 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/cine_star.m3u8
+#EXTINF:0,PELICULAS 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/300.m3u8
+#EXTINF:0,lucastone55 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/Lucastone55.m3u8
+#EXTINF:0,Masha y el Oso 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/6507.m3u8
+#EXTINF:0,ESPONJA 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/4826.m3u8
+#EXTINF:0,ICREME DREAMS 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/lcreme_dreams.m3u8
+#EXTINF:0,TOM Y JERRY 24/7
+#EXTGRP:24 Horas
+http://s1.iptv61w.com:25461/live/juan02/juan02/7346.m3u8
+#EXTINF:0,KATY HD 24/7
+#EXTGRP:24 Horas
+https://clutch.vaughnsoft.net/ord/vl/katyhd.m3u8
+
+
+
+
+
+
+#EXTINF:0,The Big Sick
+#EXTGRP:unsorted
+https://ia601502.us.archive.org/33/items/chayoterodance_Track066/chayoterodance_Track066.mp4
+#EXTINF:0,Las estrellas (canal 2)
+#EXTGRP:unsorted
+http://freeiptv.apisecurers.com/canal_7_lasestrellascanal2.m3u8 
+#EXTINF:0,Oye Tv SD  s. y L.)
+#EXTGRP:unsorted
+http://cdnlive.medcom.com.pa/medcom-livestream/oyetv-live/oyetv-live/streamout-360p/chunks.m3u8
+#EXTINF:0,Telesur LATINO
+#EXTGRP:unsorted
+http://cdna.telesur.ultrabase.net/mbliveMain/ngrp:mblive_all/playlist.m3u8
+#EXTINF:0,Canal 4 Jujuy [HD]
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,UCT Radio Temuco (Online)
+#EXTGRP:unsorted
+http://audio.uctradio.cl/radio
+#EXTINF:0,Digital FM (99.1 FM Punta Arenas)
+#EXTGRP:unsorted
+http://mimix.mercurio.cl:8000/digitalfm
+#EXTINF:0,NIU POP
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_pop.aac
+#EXTINF:0,Fox Life
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/foxlife/playlist.m3u8
+#EXTINF:0,AZ HONDURAS  s.U)
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0dcqjxkgx_1@502208/index_1_av-p.m3u8
+#EXTINF:0,Cantinazo Colombia  s. y L
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0,Radio Nativa (106.5 FM Lumaco)
+#EXTGRP:unsorted
+http://stream5.eltelon.com/nativa.aac
+#EXTINF:0,IBIZA SNAKE
+#EXTGRP:unsorted
+http://www.djing.com/tv/a-04.m3u8
+#EXTINF:0,Aljazeera
+#EXTGRP:unsorted
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/800.m3u8
+#EXTINF:0,Music Choice Music Choice
+#EXTGRP:unsorted
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,AZTECA TRECE México  S. y L.)
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_2_av-p.m3u8
+#EXTINF:0,OroMar Tv
+#EXTGRP:unsorted
+http://proxy.cablefamilia.com/hls/oromartv_hi/index.m3u8 
+#EXTINF:0,Music Choice Rock
+#EXTGRP:unsorted
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC138/chunklist.m3u8
+#EXTINF:0,360 TV LATINO
+#EXTGRP:unsorted
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0,National Geographic
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/be2fa358e4f1c9a0ee833aa15f829f81/playlist.m3u8
+#EXTINF:0,NIU TV [HD]
+#EXTGRP:unsorted
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:0,TELEFUTURO R. DOMINICANA  S. y L
+#EXTGRP:unsorted
+http://qs1.distream.net:2112/tf_str/futu/playlist.m3u8
+#EXTINF:0,POWER HD
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,Miami Tv Mexico
+#EXTGRP:unsorted
+http://mexicoserver.miamitvchannel.com/miamitv/smil:miamitvmexico/chunklist_w324994460_b1896000.m3u8
+#EXTINF:0,Canal Once LATINO
+#EXTGRP:unsorted
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/manifest.m3u8
+#EXTINF:0,MEGA G67
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net:80/i/mghds/geomega_1@328914/index_1_av-b.m3u8
+#EXTINF:0,Fox
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/fox/playlist.m3u8
+#EXTINF:0,BeMad
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/bemad/playlist.m3u8
+#EXTINF:0,NRJ HITS TV Live
+#EXTGRP:unsorted
+http://5.196.138.6:1935/live/nrjbelgique/chunklist_w1099779633.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Señal Provincial LATINO
+#EXTGRP:unsorted
+http://www.trimi.com.ar/provincial/streaming/mystream.m3u8
+#EXTINF:0,Imagina (88.1 FM)
+#EXTGRP:unsorted
+http://14003.live.streamtheworld.com/IMAGINA_SC
+#EXTINF:0,Hot
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/hot/playlist.m3u8
+#EXTINF:0,Discovery Max
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/dmax/playlist.m3u8
+#EXTINF:0,TVS Satelital LATINO
+#EXTGRP:unsorted
+http://181.198.10.23:1935/live2/smil:teradek.smil/playlist.m3u8
+#EXTINF:0,LIFEDESING
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8
+#EXTINF:0,Cocina
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/cocina/playlist.m3u8
+#EXTINF:0,Toros
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/toros/playlist.m3u8
+#EXTINF:0,192×192,r:1.jpg” ,TV Sur Canal 14 LATINO
+#EXTGRP:unsorted
+http://205.164.56.130:1935/tvsur81/tvsur81/playlist.m3u8
+#EXTINF:0,Telefe
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J03/ch6/hi.m3u8
+#EXTINF:0,CNN Chile [HD] (Mirror USA)
+#EXTGRP:unsorted
+http://unlimited1-us.dps.live/cnn/cnn.smil/playlist.m3u8
+#EXTINF:0,TV PERU HD (Lima – Peru)  S. y L.)
+#EXTGRP:unsorted
+http://cdnh15.iblups.com/hls/R9WtilpKKB.m3u8
+#EXTINF:0,Canal 13 TV
+#EXTGRP:unsorted
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/.m3u8
+#EXTINF:0,WinSports
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live3/winsports/playlist.m3u8
+#EXTINF:0,Aragon TV LATINO
+#EXTGRP:unsorted
+http://aragontv.stream.flumotion.com/aragontv/hls-live/main.m3u8
+#EXTINF:0,Carolina TV LATINO
+#EXTGRP:unsorted
+http://unlimited1-us.dps.live/carolinatv/carolinatv.smil/playlist.m3u8
+#EXTINF:0,Foro TV
+#EXTGRP:unsorted
+http://185417-f.akamaihd.net/i/n0tf0r0_1@81283/master.m3u8
+#EXTINF:0,Nicktoons TV
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/a5c568b3ed1bce30903f6092519ef949/playlist.m3u8
+#EXTINF:0,1+1
+#EXTGRP:unsorted
+http://edge.wms28.lorini.net/canalonce/canalonce/playlist.m3u8  
+#EXTINF:0,Otto Fm Tv
+#EXTGRP:unsorted
+http://live.youiptv.ch:1935/8FM/8FM/playlist.m3u8
+#EXTINF:0,Music Choice Mexicana
+#EXTGRP:unsorted
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC131/chunklist.m3u8
+#EXTINF:0,ETB Sat LATINO
+#EXTGRP:unsorted
+http://etbvnogeo-lh.akamaihd.net/i/ETBEITBEUS_1@300391/index_0748_av-p.m3u8
+#EXTINF:0,Radio Dinamica (100.7 FM Coronel)
+#EXTGRP:unsorted
+http://stream5.eltelon.com/dinamica.aac
+#EXTINF:0,COOL HD
+#EXTGRP:unsorted
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0,Radio Festiva (100.9 FM Copiapo)
+#EXTGRP:unsorted
+http://s6.jcwebnew.com:8070/;
+#EXTINF:0,AL JAZEERA UK
+#EXTGRP:unsorted
+http://aljazeera-eng-apple-live.adaptive.level3.net/apple/aljazeera/english/appleman.m3u8
+#EXTINF:0,VISION CANAL 9
+#EXTGRP:unsorted
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+#EXTINF:0,HBO Family  snake
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/livestream.m3u8
+#EXTINF:0,Milenio
+#EXTGRP:unsorted
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,Crimen & Investigacion
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/canalcrimen/playlist.m3u8
+#EXTINF:0,Canela TV LATINO
+#EXTGRP:unsorted
+http://servicioamerica.com:1935/8154/8154/playlist.m3u8
+#EXTINF:0,CANTINAZO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANT/tu1_1.m3u8
+#EXTINF:0,Radio Candela FM (Online)
+#EXTGRP:unsorted
+http://tunein.digitalproserver.com/candelabb.aac
+#EXTINF:0,M6
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/fc1df6307a9c4971569997963dcc8b08/playlist.m3u8
+#EXTINF:0,abc news dc  s. y L
+#EXTGRP:unsorted
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0,Radio Las Nieves (102.9 FM Puerto Aysen)
+#EXTGRP:unsorted
+http://s6.jcwebnew.com:7060/;
+#EXTINF:0,Music Choice Rap 2K
+#EXTGRP:unsorted
+http://edge.music-choice-vc-chaina2.top.comcast.net/VideoChannels/MC141/chunklist.m3u8
+#EXTINF:0,WOW
+#EXTGRP:unsorted
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8
+#EXTINF:0,TNT Latino
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/tntlatino/playlist.m3u8
+#EXTINF:0,California Music Channel
+#EXTGRP:unsorted
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:0,TELEMICRO CANAL 5
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/736348/events/5552503/live.m3u8
+#EXTINF:0,Virgin TV music SNAKE
+#EXTGRP:unsorted
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:0,El Pinguino [SD] (Punta Arenas)
+#EXTGRP:unsorted
+http://streaming.elpinguino.com:1935/live/pinguinotv_360p/livestream.m3u8
+#EXTINF:0,M+ Deportes 2
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/plusdeportes2/playlist.m3u8
+#EXTINF:0,VTV Viña del Mar [HD]
+#EXTGRP:unsorted
+http://cdn.streamingmedia.cl:1935/live/vtvvina/playlist.m3u8
+#EXTINF:0,Arirang (Korea)
+#EXTGRP:unsorted
+http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:0,TV 3 LATINO
+#EXTGRP:unsorted
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:tv3cat_tv/playlist.m3u8
+#EXTINF:0,Cable Noticias
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0,NIU 90s
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_90s.aac
+#EXTINF:0,La Mega Mundial  s. y L
+#EXTGRP:unsorted
+http://68.235.35.243:1935/lamegamundial/lamegamundial2/playlist.m3u8
+#EXTINF:0,TELE VIDA
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0,Milenio Televisión LATINO
+#EXTGRP:unsorted
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,Fox Latino
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/foxlatino/playlist.m3u8
+#EXTINF:0,Nat Geo
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/nationalgeo/playlist.m3u8
+#EXTINF:0,VMas+ TV
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:0,MotoGP
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live3/motogp/playlist.m3u8
+#EXTINF:0,NIU Indie
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_indie.aac
+#EXTINF:0,BeinSport Liga
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live3/beinliga/playlist.m3u8
+#EXTINF:0,TV PERu 7.3 (Lima – Peru)  S. y L.)
+#EXTGRP:unsorted
+http://cdnh15.iblups.com/hls/RMuwrdk7M9.m3u8
+#EXTINF:0,VTV Valle LATINO
+#EXTGRP:unsorted
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0,13 TV LATINO
+#EXTGRP:unsorted
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/chunklist_w986866555.m3u8
+#EXTINF:0,TLT Venezuela  S. y L
+#EXTGRP:unsorted
+http://enc-fwt.lorini.net/telet/telet/index.m3u8
+#EXTINF:0,CANAL CNC (Pasto Colombia)  S. y L.)
+#EXTGRP:unsorted
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:0,National Geographic Channel Europe (Version in Spanish)
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/c2a657575fdd40a765b1dac33e5dbf83/playlist.m3u8
+#EXTINF:0,Canal Extremadura LATINO
+#EXTGRP:unsorted
+http://hlstv.canalextremadura.es/livetv/smil:multistream.smil/playlist.m3u8
+#EXTINF:0,Playboy
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/playboy/playlist.m3u8
+#EXTINF:0,Telecinco
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/telecinco/playlist.m3u8
+#EXTINF:0,CANAL U
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8
+#EXTINF:0,RETRO TV
+#EXTGRP:unsorted
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,TELEMAR CAMPECHE
+#EXTGRP:unsorted
+http://wms.tecnoxia.com:1935/8006/8006/playlist.m3u
+#EXTINF:0,UNO TV MEXICO
+#EXTGRP:unsorted
+http://ooyalahd2-f.akamaihd.net/i/UnoTV02_delivery@122617/master.m3u8
+#EXTINF:0,KIKA
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/7814b33686d5348d4511c75d331b3b45/playlist.m3u8
+#EXTINF:0,Ticavision
+#EXTGRP:unsorted
+http://k3.usastreams.com:1935/HBTV/HBTV/playlist.m3u8
+#EXTINF:0,RCG TV-1
+#EXTGRP:unsorted
+http://wowzacontrol.com:1936/stream23/stream23/chunklist.m3u8
+#EXTINF:0,PortalFoxMix Tv
+#EXTGRP:unsorted
+http://149.56.17.92:1935/portalfoxmix/_definst_/portalfoxmix/chunklist_w1915378513.m3u8?iptvgratis?chile.m3u8
+#EXTINF:0,Canal 3/24 LATINO
+#EXTGRP:unsorted
+http://ccma-tva-int-abertis-live.hls.adaptive.level3.net/int/ngrp:324_web/playlist.m3u8
+#EXTINF:0,Logos TV LATINO
+#EXTGRP:unsorted
+http://streamer1.streamhost.org:1935/salive/GMIalfah/chunklist.m3u8?
+#EXTINF:0,A+ SNAKE
+#EXTGRP:unsorted
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_3_av-p.m3u8
+#EXTINF:0,ITV Encore
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/7b8ca0ab87affed7fe2b2935892ee5bc/playlist.m3u8
+#EXTINF:0,ONDA TV R. DOMINICANA  S. y L
+#EXTGRP:unsorted
+http://ss6.domint.net:2052/otv_str/tv10/playlist.m3u8
+#EXTINF:0,NIU CL
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_cl.aac
+#EXTINF:0,Energy
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/energy/playlist.m3u8
+#EXTINF:0,NOTV 41 New Orleans - Louisiana [HD]
+#EXTGRP:unsorted
+http://media4.tripsmarter.com:1935/LiveTV/NOTVHD/playlist.m3u8
+#EXTINF:0,Lifetime USA
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/426080503467f5a54a5f1354fc0d5714/playlist.m3u8
+#EXTINF:0,NIU
+#EXTGRP:unsorted
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/playlist.m3u
+#EXTINF:0,Formula 1
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live3/formula1/playlist.m3u8
+#EXTINF:0,Canal de las Estrellas [SD]
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CEST/tu1_1.m3u8
+#EXTINF:0,M2O TV [SD]
+#EXTGRP:unsorted
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,CANAL CNC ESTRELLA TV (Quibdó Colombia)  S. y L.)
+#EXTGRP:unsorted
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/cncquibdo.m3u8
+#EXTINF:0,Holvoet TV (Atacama)
+#EXTGRP:unsorted
+http://unlimited5-cl.dps.live/holvoettv/holvoettv.smil/playlist.m3u8
+#EXTINF:0,Cosmo
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/cosmo/playlist.m3u8
+#EXTINF:0,NOVA G67
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net:80/i/nvhds/geonova_1@379404/index_1_av-b.m3u8
+#EXTINF:0,ITV4
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/2a2714a7d955d8810a21bb3f195cc0d9/playlist.m3u8
+#EXTINF:0,Nex Tv
+#EXTGRP:unsorted
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8
+#EXTINF:0,Cuatro
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/cuatro/playlist.m3u8
+#EXTINF:0,Canal 26 [HD]
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/26hd-720/playlist.m3u8
+#EXTINF:0,CARINA TV
+#EXTGRP:unsorted
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:0,Ve Plus TV LATINO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:0,CNN (Noticias Chile)  S. y L.)
+#EXTGRP:unsorted
+http://unlimited1-us.dps.live/cnn/cnn.smil/cnn/livestream2/chunks.m3u8
+#EXTINF:0,Ocho TV [FHD]
+#EXTGRP:unsorted
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/master.m3u8
+#EXTINF:0,IB3 [SD]
+#EXTGRP:unsorted
+http://ibsatiphone.ib3tv.com/iphoneliveIB3/IB3/IB3.m3u8
+#EXTINF:0,LATINO NCTV RANCHERA
+#EXTGRP:unsorted
+http://ss8.domint.net:2106/nct_str/latinos/playlist.m3u8
+#EXTINF:0,Azteca 7
+#EXTGRP:unsorted
+http://ragnaroktv.com/hls/issii/4/7/Azteca7.m3u8
+#EXTINF:0,Bio Bio Radio Los Angeles (96.7 FM Los Angeles)
+#EXTGRP:unsorted
+http://ice.dallas.digitalproserver.com/biola
+#EXTINF:0,Niu LIVE
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_live.aac
+#EXTINF:0,Tigo Musica
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/MESH/tu1_1.m3u8?
+#EXTINF:0,Ocho TV LATINO
+#EXTGRP:unsorted
+http://bcliveuniv-lh.akamaihd.net/i/Live_1@170324/index_2200_av-p.m3u8
+#EXTINF:0,Canal U
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CANU/tu1_1.m3u8?
+#EXTINF:0,RedLight
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/redlight/playlist.m3u8
+#EXTINF:0,Azteca 13 mx SNAKE
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net:80/i/0qm7cjvop_1@502476/index_3_av-p.m3u8
+#EXTINF:0,TRECEVISION YUCATáN
+#EXTGRP:unsorted
+http://streamingcws10.com:1935/trecevision/videotrecevision/playlist.m3u
+#EXTINF:0,TVMas [HD]
+#EXTGRP:unsorted
+http://50.7.98.234:1935/rtv/videortv/playlist.m3u8
+#EXTINF:0,Canal 9 [SD] (Concepcion)
+#EXTGRP:unsorted
+http://unlimited2-cl.dps.live/c9/c9.smil/playlist.m3u8
+#EXTINF:0,Bloomberg TV Europe
+#EXTGRP:unsorted
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:0,CANAL 10 G67
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,GolTV
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/goltv/playlist.m3u8
+#EXTINF:0,NIU Rock
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_rock.aac
+#EXTINF:0,TV5 Monde Latino
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TV5/tu1_1.m3u8
+#EXTINF:0,MVS NOTICIAS
+#EXTGRP:unsorted
+http://wos1.smartcast.com.mx:1935/mvs/mvs_radio/mvs_radio.m3u8
+#EXTINF:0,TeleRed
+#EXTGRP:unsorted
+http://k4.usastreams.com/Telesistemas/Telesistemas/playlist.m3u8
+#EXTINF:0,Telemedellin LATINO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TMED/tu1_1.m3u8
+#EXTINF:0,COLOR VISIÓN R. DOMINICANA  S. y L
+#EXTGRP:unsorted
+http://ss6.domint.net:2102/cvh_str/colorvisionhd/playlist.m3u8
+#EXTINF:0,Life Desing
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/LDTV/tu1_1.m3u8?
+#EXTINF:0,Sol TV Perú LATINO
+#EXTGRP:unsorted
+http://wowzaserver.net:1935/vivo21/vivo21/playlist.m3u8
+#EXTINF:0,RCG Televisión LATINO
+#EXTGRP:unsorted
+http://wowzacontrol.com:1935/stream34/stream34/chunklist_w2034234970.m3u8
+#EXTINF:0,ABC News
+#EXTGRP:unsorted
+http://abclive.abcnews.com/i/abc_live4@136330/index_1200_av-b.m3u8?sd=10&b=1200&rebase=on
+#EXTINF:0,LANCELOT
+#EXTGRP:unsorted
+http://62.210.141.18:1935/directo/lancelot.television/live.m3u8
+#EXTINF:0,France 24
+#EXTGRP:unsorted
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,CANAL ANTIESTRES
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8
+#EXTINF:0,Rockaxis (Online)
+#EXTGRP:unsorted
+http://radio.cl.mediastre.am/rockaxis.aac
+#EXTINF:0,Canal 10 Chetumal [HD]
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,America
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J03/ch3/hi.m3u8
+#EXTINF:0,Canal Antiestrés LATINO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:0,Cosmovision LATINO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:0,CANAL 4 JUJUY
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/playlist.m3u8
+#EXTINF:0,NIU 80s
+#EXTGRP:unsorted
+http://live-origin.us.niu.cl/niu_80s.aac
+#EXTINF:0,Hard Life [SD]
+#EXTGRP:unsorted
+http://stream.hardlife.tv:8134/hls-live/livepkgr/_definst_/liveevent/hl.m3u8
+#EXTINF:0,Telecafé LATINO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TCAF/tu1_1.m3u8?
+#EXTINF:0,VTV Aconcagua [HD]
+#EXTGRP:unsorted
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0,TVES Canal 10 LATINO
+#EXTGRP:unsorted
+http://198.24.135.42/canal10/canal10/playlist.m3u8
+#EXTINF:0,Capital TV [HD]
+#EXTGRP:unsorted
+http://wms.shared.streamshow.it/carinatv/carinatv/playlist.m3u8
+#EXTINF:0,Divinity
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/divinity/playlist.m3u8
+#EXTINF:0,DJING CLASSIC HD SNAKE
+#EXTGRP:unsorted
+http://www.djing.com/tv/i-05.m3u8
+#EXTINF:0,Umag TV [SD] (Punta Arenas)
+#EXTGRP:unsorted
+http://cl.origin.grupoz.cl:1935/tser5/live/playlist.m3u8
+#EXTINF:0,MIAMI TV
+#EXTGRP:unsorted
+http://usaserver.miamitvchannel.com/miamitv/smil:miamitv/playlist.m3u8
+#EXTINF:0,TVE La 1
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/tv1/playlist.m3u8
+
+#EXTINF:0,ecuador tv nacional
+#EXTGRP:unsorted
+http://api.new.livestream.com/accounts/21848311/events/6465523/live.m3u8
+#EXTINF:0,InterEconomia TV LATINO
+#EXTGRP:unsorted
+http://streaming.enetres.net/16011939C62D44ED91350508FB25828B021/smil:live.smil/master.m3u8
+#EXTINF:0,KKRtv LATINO
+#EXTGRP:unsorted
+http://stream.kkr.dk/live/ngrp:kkr_adaptive/playlist.m3u8
+#EXTINF:0,Canal 2 Nicaragua LATINO
+#EXTGRP:unsorted
+http://162.244.81.181:1935/live/Stream1/playlist.m3u8
+#EXTINF:0,tc tv
+#EXTGRP:unsorted
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/720p/playlist.m3u8
+#EXTINF:0,Venus
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/venus/playlist.m3u8
+#EXTINF:0,RCN HD (Bogotá Colombia)  S. y L.)
+#EXTGRP:unsorted
+http://mdstrm.com:80/live-stream-playlist/58a36704896500b908cf1abe.m3u8
+#EXTINF:0,MC Play SNAKE
+#EXTGRP:unsorted
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:0,Mega
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/mega/playlist.m3u8
+#EXTINF:0,FDF
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/fdf/playlist.m3u8
+#EXTINF:0,Canal ONCE SNAKE
+#EXTGRP:unsorted
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/playlist.m3u8
+#EXTINF:0,TCM
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/tcm/playlist.m3u8
+#EXTINF:0,FRANCE 24
+#EXTGRP:unsorted
+http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
+#EXTINF:0,TLX Telemax LATINO
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,Canal TRO
+#EXTGRP:unsorted
+http://live10.cdnmedia.tv/canaltro2live/smil:live.smil/playlist.m3u8
+#EXTINF:0,Capital TV LATINO
+#EXTGRP:unsorted
+http://streaming.video.webrpp-live.hls.adaptive.level3.net/hls-live/videoremux-videoCAPTV/_definst_/live.m3u8
+#EXTINF:0,Multimedios Monterrey
+#EXTGRP:unsorted
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,VMAS TV
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8?
+#EXTINF:0,PAKA PAKA (ARGENTINA)
+#EXTGRP:unsorted
+http://lsdencuentrohls-lh.akamaihd.net/i/PKPKHLS_1@198010/master.m3u8
+#EXTINF:0,RCG TV-3
+#EXTGRP:unsorted
+http://wowzacontrol.com:1936/stream56/stream56/chunklist.m3u8  
+#EXTINF:0,Lifetime UK
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J01/f31ff373857e6b6e0bc44ae55da2e208/playlist.m3u8
+#EXTINF:0,PortalFoxMix
+#EXTGRP:unsorted
+http://tv.portalfoxmix.club:1935/portalfoxmix/portalfoxmix/playlist.m3u8
+#EXTINF:0,Canal 5 HD SNAKE
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(XHGC)/Stream(06)/index.m3u8
+#EXTINF:0,TABER TV
+#EXTGRP:unsorted
+http://streamingcontrol.com:1935/tbbcentral/l1v1.sdp/live.m3u8
+#EXTINF:0,Hustler
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/hustler/playlist.m3u8
+#EXTINF:0,Teleantioquia LATINO
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?
+#EXTINF:0,Cinemax
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/cinemax/playlist.m3u8
+#EXTINF:0,TNT
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/tnt/playlist.m3u8
+#EXTINF:0,TRT World [HD]
+#EXTGRP:unsorted
+http://trtcanlitv-lh.akamaihd.net/i/TRTWORLD_1@321783/master.m3u8
+#EXTINF:0,CPETV La Pampa Argentina  S. y L.)
+#EXTGRP:unsorted
+http://live-19.viewer.dacast.com:80/i/dclive_1@336785/index_151_av-p.m3u8
+#EXTINF:0,Music Choice Hit
+#EXTGRP:unsorted
+http://edge.music-choice-vc-chaina1.top.comcast.net/VideoChannels/MC100/chunklist.m3u8
+#EXTINF:0,TV PERu (Lima – Peru)  S. y L.)
+#EXTGRP:unsorted
+https://cdnh4.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,W24 LATINO
+#EXTGRP:unsorted
+http://ms01.w24.at/hls-live/livepkgr/_definst_/liveevent.m3u8
+#EXTINF:0,El Pinguino [HD] (Punta Arenas)
+#EXTGRP:unsorted
+http://streaming.elpinguino.com:1935/live/pinguinotv_720p/livestream.m3u8
+#EXTINF:0,Telemax [HD]
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/master.m3u8
+#EXTINF:0,TVO Canal 23 LATINO
+#EXTGRP:unsorted
+http://xtvocanal23x.api.channel.livestream.com/3.0/playlist.m3u8
+#EXTINF:0,CABLE NOTICIAS
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0,TELEENVIGADO (Envigado Colombia)  S. y L.)
+#EXTGRP:unsorted
+http://66.240.236.25/hls-live/livepkgr/_definst_/liveevent/vivo.m3u8
+#EXTINF:0,POWER HD G67
+#EXTGRP:unsorted
+http://wowza.telpin.com.ar:1935/live-powerTV/power.stream/playlist.m3u8
+#EXTINF:0,U. de Chile (102.5 FM)
+#EXTGRP:unsorted
+http://stream3.rbm.cl:8010/playerweb.aac
+#EXTINF:0,Sevilla FC
+#EXTGRP:unsorted
+http://sevillafc_live-lh.akamaihd.net/i/video_0@354142/master.m3u8
+#EXTINF:0,Ibiza
+#EXTGRP:unsorted
+http://www.djing.com/tv/ibiza.m3u8
+#EXTINF:0,Cool HD
+#EXTGRP:unsorted
+http://ar.solumedia.com.ar:1935/cool/hd/playlist.m3u8
+#EXTINF:0,DISCOVERY CHANNEL
+#EXTGRP:unsorted
+http://www.iptvmexico.xyz/ch/40.m3u8
+#EXTINF:0,Extrema TV
+#EXTGRP:unsorted
+http://livestreamcdn.net:1935/ExtremaTV/ExtremaTV/playlist.m3u8
+#EXTINF:0,Wow TV
+#EXTGRP:unsorted
+http://cdn.elsalvadordigital.com:1935/wowtv/wowtv/playlist.m3u8?
+#EXTINF:0,FOX LIFE
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/globo/J04/channel.php/live1/foxlatino/playlist.m3u8
+#EXTINF:0,NiuMedia
+#EXTGRP:unsorted
+http://cl.origin.grupoz.cl/niutv/smil:live.smil/chunklist.m3u8
+#EXTINF:0,ADN 40
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0kus659k5_1@501884/index_3_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,A+
+#EXTGRP:unsorted
+http://aztecahls2-lh.akamaihd.net/i/aztecahls2_1@455692/index_1_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,Multimedios
+#EXTGRP:unsorted
+http://mdstrm.com/live-stream-playlist/57b4dbf5dbbfc8f16bb63ce1.m3u8
+#EXTINF:0,Unimas
+#EXTGRP:unsorted
+http://nlds116.cdnak.dal.neulion.com/nlds/univisionnow/unimas_east/as/live/unimas_east_hd_androidtab.m3u8?hdnea=expires=1496782140~access=/nlds/univisionnow/unimas_east/as/live/*~md5=faa203f52f13f1fdc38700454e03ee82
+#EXTINF:0,Telemundo
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/telemundo/playlist.m3u8
+#EXTINF:0,RCN
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/rcn/playlist.m3u8
+#EXTINF:0,Ipe Peru
+#EXTGRP:unsorted
+http://cdnh5.iblups.com/hls/OVJNKV4pSr.m3u8
+#EXTINF:0,Europa Canal 4
+#EXTGRP:unsorted
+http://streaming.wirenetserver.com.ar:1935/canal4/live_1/chunklist_w1691605234.m3u8
+#EXTINF:0,NexTV
+#EXTGRP:unsorted
+http://198.1.117.5:1935/live/livestream/chunklist_w1290911642.m3u8?
+#EXTINF:0,Ve Plus
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/VMAS/tu1_1.m3u8
+#EXTINF:0,Trendy Channel
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TREN/tu1_1.m3u8?
+#EXTINF:0,Canal Antiestres
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANTI/tu1_1.m3u8?
+#EXTINF:0,Telpin
+#EXTGRP:unsorted
+http://201.219.100.30:1935/telpintv/ttv.stream_720p/chunklist_w1656240835.m3u8?
+#EXTINF:0,Uno
+#EXTGRP:unsorted
+http://50.7.98.234:1935/rtv/videortv/chunklist.m3u8?
+#EXTINF:0,Teleantioquia
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TANT/tu1_1.m3u8?iptvgratis?Entretenimiento.m3u8
+#EXTINF:0,TLX HD
+#EXTGRP:unsorted
+http://live-edge01.telecentro.net.ar/live/smil:tlx.smil/chunklist_w1527043435_b1828000_sleng.m3u8?iptvgratis?Entretenimiento.m3u8
+#EXTINF:0,Canal Carnaval 38
+#EXTGRP:unsorted
+http://wow2.cl.digitalproserver.com/carnavaltv/carnavaltvvivo/mp4:livestream2/playlist.m3u8
+#EXTINF:0,UESTV
+#EXTGRP:unsorted
+http://cl.origin.grupoz.cl/uestv/live/playlist.m3u
+#EXTINF:0,UMAG TV
+#EXTGRP:unsorted
+http://edge1.cl.grupoz.cl/tser5/live/playlist.m3u8
+#EXTINF:0,VTV
+#EXTGRP:unsorted
+http://cdn.streamingmedia.cl:1935/live//vtvvina/playlist.m3u8
+#EXTINF:0,VTV 2
+#EXTGRP:unsorted
+http://cdn.streamingmedia.cl:1935/live/vtv2/livestream3/playlist.m3u8
+#EXTINF:0,Chilevision
+#EXTGRP:unsorted
+http://chv.movil.rtsp.ztreaming.com/chvmovil2/chilevision@140569/chunklist_w787114469.m3u8
+#EXTINF:0,COSMOVISION
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/COSM/tu1_1.m3u8?
+#EXTINF:0,TV Chile
+#EXTGRP:unsorted
+http://c13-ply.janus.cl/playlist/stream.m3u8?s=c13hd
+#EXTINF:0,Canal 10
+#EXTGRP:unsorted
+http://stream2.dynalias.com:1935/live/tvlive1/playlist.m3u8
+#EXTINF:0,TC HD
+#EXTGRP:unsorted
+http://elcanaldelfutbol.com/static/wowza/test/hls/10001/480p/playlist.m3u8
+#EXTINF:0,Canal Once Mexico
+#EXTGRP:unsorted
+http://live.canaloncelive.tv:1935/livepkgr2/smil:internacional.smil/master.m3u8?
+#EXTINF:0,Azteca Trece
+#EXTGRP:unsorted
+http://aztecalive-lh.akamaihd.net/i/0qm7cjvop_1@502476/master.m3u8
+#EXTINF:0,M+ Accion
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/plusaccion/playlist.m3u8
+#EXTINF:0,M+ Estrenos
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/plusestrenos/playlist.m3u8
+#EXTINF:0,M+ Series
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/plusseries/playlist.m3u8
+#EXTINF:0,FOX Life
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/globo/J04/channel.php/live1/foxlatino/playlist.m3u8
+
+#EXTINF:0,RetroTV
+#EXTGRP:unsorted
+http://stream.mediawork.cz/retrotv/retrotvHQ1/playlist.m3u8
+#EXTINF:0,NAT_GEO
+#EXTGRP:unsorted
+http://189.216.247.113/Content/HLS/Live/Channel(NAT_GEO)/index.m3u8
+#EXTINF:0,Nat Geo Wild
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/nationalwild/playlist.m3u8
+#EXTINF:0,El Gourmet
+#EXTGRP:unsorted
+http://freeiptv.apisecurers.com/canal_71_elgourmet.m3u8
+#EXTINF:0,NatGeo Wild
+#EXTGRP:unsorted
+http://freeiptv.apisecurers.com/canal_82_natgeowild.m3u8
+#EXTINF:0,NatGeo
+#EXTGRP:unsorted
+http://freeiptv.apisecurers.com/canal_23_natgeo.m3u8
+#EXTINF:0,H2
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/globo/J02/61.m3u8
+#EXTINF:0,History
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live/historia/playlist.m3u8
+#EXTINF:0,Aprende TV
+#EXTGRP:unsorted
+http://live10.cdnmedia.tv/dgtvelive/smil:aprend24.smil/playlist.m3u8
+#EXTINF:0,Sun Channel
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/SUN/tu1_1.m3u8
+#EXTINF:0,DW Latino
+#EXTGRP:unsorted
+http://dwstream3-lh.akamaihd.net/i/dwstream3_live@124409/index_5_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,TravelHD
+#EXTGRP:unsorted
+http://31.13.223.104:1935/travel/community.stream/chunklist_w511463959.m3u8
+#EXTINF:0,Garage TV
+#EXTGRP:unsorted
+http://186.0.233.76:1935/Garage/smil:garage.smil/master.m3u8
+#EXTINF:0,Aire Santa Fe Argentina
+#EXTGRP:unsorted
+http://184.154.28.210:1935/airevideo/airevideo/playlist.m3u8
+#EXTINF:0,Cablenoticias
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/CNOT/tu1_1.m3u8
+#EXTINF:0,Milenio TV
+#EXTGRP:unsorted
+http://bcoveliveios-i.akamaihd.net/hls/live/201661/57828478001/milenio_center_512k@51752.m3u8
+#EXTINF:0,Televida
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/TVID/tu1_1.m3u8
+#EXTINF:0,Anime TV
+#EXTGRP:unsorted
+http://video7.stream.mx:1935/raxatv/raxatv/chunklist_w884577146.m3u8
+#EXTINF:0,Antena 3
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/antena3/playlist.m3u8
+#EXTINF:0,Antena 3 Internacional
+#EXTGRP:unsorted
+http://hlslive.lcdn.une.net.co/v1/AUTH_HLSLIVE/ANT3/tu1_1.m3u8
+#EXTINF:0,Atreseries
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/a3shds/geoa3series_1@122775/index_4_av-p.m3u8?sd=10&rebase=on
+#EXTINF:0,NOVA
+#EXTGRP:unsorted
+http://a3live-lh.akamaihd.net/i/nvhds/geonova_1@379404/index_4_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,8 TV España
+#EXTGRP:unsorted
+http://streaming.8tv.cat/8TV/8aldia-directe/chunklist_w1058883651.m3u8
+#EXTINF:0,13 TV
+#EXTGRP:unsorted
+http://streaming.enetres.net/091DB7AFBD77442B9BA2F141DCC182F5021/mobile/playlist.m3u8
+#EXTINF:0,La Sexta
+#EXTGRP:unsorted
+https://gratis.iptvcanales.com/~sbvlubrl/redirect/voladuras/J04/channel.php/live1/lasexta/playlist.m3u8
+#EXTINF:0,TVE 24hrs
+#EXTGRP:unsorted
+http://hlsackdn_gl8-lh.akamaihd.net/i/hlsdvrlive_1@81183/index_1500_av-b.m3u8?sd=10&rebase=on
+#EXTINF:0,Weather Channel
+#EXTGRP:unsorted
+http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8?
+#EXTINF:0,DW USA
+#EXTGRP:unsorted
+http://www.metafilegenerator.de/DWelle/tv-northamerica/ios/master.m3u8?
+#EXTINF:0,CGTN Español
+#EXTGRP:unsorted
+http://livees.cgtn.com/1000e/prog_index.m3u8
+#EXTINF:0,Canal 01
+#EXTGRP:unsorted
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs18.stream/playlist.m3u8
+#EXTINF:0,Music Japan
+#EXTGRP:unsorted
+http://cdn-usa1-streaming.ani-box.com:1935/live/cs17.stream/playlist.m3u8
+
+
+
+
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS1
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/01.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg",DBS2
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/02.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg",DBS3
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/03.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS4
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/04.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS5
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/05.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS6
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/06.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS7
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/07.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS8
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/08.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS9
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/09.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS10
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/10.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS11
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/11.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS12
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/12.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS13
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/13.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS14
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/14.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS15
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/15.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS16 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/16.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS17 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/17.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS18
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/18.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS19
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/19.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS20
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/20.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS21 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/21.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS22
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/22.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS23
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/23.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS24
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/24.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS25
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/25.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS26
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/26.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS27
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/27.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS28
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/28.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS29
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/29.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS30
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/30.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS31 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/31.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS32
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/32.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS33
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/33.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS34
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/34.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS35
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/35.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS36
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/36.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS37
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/37.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS38
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/38.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS39
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/39.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS40
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/40.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS41
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/41.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS42
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/42.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS43
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/43.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS44
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/44.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS45
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/45.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS46
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/46.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS47
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/47.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS48
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/48.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS49
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/49.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS50
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/50.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS51
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/51.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS52 
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/52.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS53
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/53.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS54
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/54.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS55
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/55.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS56 
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/56.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS57
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/57.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS58
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/58.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS59
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/59.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS60
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/60.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS61
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/61.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS62
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/62.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS63
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/63.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS64
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/64.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS65
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/65.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS66
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/66.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS67
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/67.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS68
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/68.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS69
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/69.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS70
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/70.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS71
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/71.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS72
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/72.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS73
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/73.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS74
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/74.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS75
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/75.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS76 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/76.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS77
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/77.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS78
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/78.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS79
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/79.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS80 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/80.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS81
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/81.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS82
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/82.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS83
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/83.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS84
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/84.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS85
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/85.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS86
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/86.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS87
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/87.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg"  ,DBS88
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/88.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS89
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/89.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS90
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/90.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS91
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/91.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS92
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/92.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS93
+#EXTGRP:="Dragon Ball Super"
+http://cod.gnulas.com/video3/93.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS94
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/94.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg",DBS95 
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/95.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS96
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/96.webm
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS97
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/97.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS98
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/98.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" DBS99
+#EXTGRP:="Dragon Ball Super" ,
+http://cod.gnulas.com/video3/99hdr.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS100
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/100.mp4
+#EXTINF:-1 tvg-logo="http://img.urlfb.com/data/la-batalla-de-los-dioses-3.jpg" ,DBS101
+#EXTGRP:="Dragon Ball Super" 
+http://cod.gnulas.com/video3/101.wmv
+
+
+
+#EXTINF:0,El planeta de los simios la guerra 1080p
+#EXTGRP:peliculas
+https://www399.playercdn.net/88/2/Iik9vPWwTcWyxKM59BwgCA/1517262160/171229/808FMY74WVO5U0TYVHQNU.mp4
+#EXTINF:0,Pajaro loco 2017
+#EXTGRP:peliculas
+https://nagami-kumquat.fruithosted.net/dl/n/TzGhyU16i4Q7PiCd/qdnleknpcdkmfpfp/RvsQItKIRNekfBhvQ-l7B2le3G9BsEnedAC8bzEDHBbNjMIQa-3UmM3f4T5e_6_5LRuuvFQQBaYsSxjrksGtd-p8ue7KaKUP_5qzPSBwM-kkx3r8KOIQBqBmaL6b9g4g7SeTnS4OZVBysTtiexoAiCiNetqS4Lw6QQoCub63QFNAnhkZtolSWH9giZJ2X6-j-HoqgI-rSxgTXg7t8ifBpOLmQTUZ6LDMeBjIGcgeafrqPC8C-LMsv6krg4azXdWzBok2jRdPNylPwZSDmkMWTlIOodL-4F1xWFq1Q36-BQcOrYOP-y9_dLVzQ9JCZyc21yXOhiBwoMltZHeg1M0mMHA8Ng2CtVYXGUxWyduv8N2I_twExsKr-Fm0sJcg0d09vpuMYXp6R3xLO0OY0halZLxRpYHg3dmcXWHWJIpFcMhc-FxPkeWbKcgOfEEkJrHTheNBmMAGrn3ApciIXgHQWNf4jn6IorlSLZAFhJnwVng/El+pajaro+loco+La+pel_cula.2017.tshq.lat.mp4
+#EXTINF:0,  tvg-logo="https://image.tmdb.org/t/p/w185/lOsHnflo4Gikmk14vXX9w7s2mwi.jpg", Hot Wheels Acceleracers: Acelera para sobrevivir
+#EXTGRP:peliculas
+http://stor27.streamcloud.eu:8080/7xv75x27vcoax3ptx2nybw7yw2a3odb77rewjyalosyekjtcqybczokzjy/video.mp4
+#EXTINF:0,Un jefe en pañales
+#EXTGRP:peliculas
+https://nt0pwi.oloadcdn.net/dl/l/LLvaPPu_8AiY67tY/adq6wqwM2nQ/th3.b0ss.b4by.2017.hds.720p.latino.mp4
+#EXTINF:0,COCO 1
+#EXTGRP:peliculas
+https://www468.playercdn.net/87/3/IzFi8GBiy3motnGti3RMCg/1516564148/180115/993FNI2DOQRKGPCRDUZBV.mp4
+#EXTINF:0,COCO 2
+#EXTGRP:peliculas
+https://1fiafzo.oloadcdn.net/dl/l/DOrMnWskRQtHS5ND/yYcCwTxwMaI/6c378a07e0884b262380df419832ed7d.mp4
+#EXTINF:0,COCO 3
+#EXTGRP:peliculas
+https://old-world-sycamore.fruithosted.net/dl/n/jtXyYw1hazQU2C1e/kakcpplfosnokfla/wibdGdAbrX1sywVwc5rqz25ho2qw6ATZOSwja0AXYXAksZWhkeOp9jUxr6f4hZSbgFn95ukGXFe7PvmilMm4mmtfgZYn_FNbNHtyy01jGs9K13E4QA3EPmD7lgUq-yCHaiuDEXurJ0AO77LcWuFBRxJQWvVVrBDs4He-OceAwvK2m8FJ_jD8TbXdzk1ifVJSvl5Pp1UNBWeoODdf7qKr0KHFfkbgOwnY5_z_NdrMmnUqrk4dUDXWBhCbiOhT50mQpnGwmIk01jquRK23iz-9MhSu2jM6NyGUQcYQv3YhY6WEYsPl53anXddqxu3K6y1yth8-Cb8pRfkzofgoDa5GXsZPVhtgMg7dQD2iobiB9Rx17rESXfiTMhIi_0I-BU1SWdDxcVwa8FRCR5ETh_qpoDgsXdVqN5xorszlBOZyLbwvEiJ56pKfEe4Ps0Uoz4zA-9E6MaIPzxt6qriNOXavTg76WxHjlIuVKg7pqzyf7S8/6c378a07e0884b262380df419832ed7d.mp4
+#EXTINF:0,Alien Covenant
+#EXTGRP:peliculas
+http://ow.ly/SgXZ30eXN93
+#EXTINF:0,Un vuelo de locura
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/q/f0/ylkyk_480p_1mbps.mp4
+#EXTINF:0,Girls Trip
+#EXTGRP:peliculas
+https://archive.org/download/SRREGIO.NET171005/61r75.7r19.mkv
+#EXTINF:0,Bambi 2
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/hfgaAx
+#EXTINF:0,Por que el
+#EXTGRP:peliculas
+https://archive.org/download/XQESRREGIO/XQESRREGIO.mkv
+#EXTINF:0,Una Loca Pelicula de The Walking Dead
+#EXTGRP:peliculas
+https://archive.org/download/DocumentalZombieSRREGIO/The%20Walking%20DeadSRREGIO.mkv
+#EXTINF:0,Hallowen
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/r/v0/dpoyk_480p_1mbps.mp4
+#EXTINF:0,Clown Town
+#EXTGRP:peliculas
+https://archive.org/download/ClToSRREGIO/ClToSRREGIO.mkv
+#EXTINF:0,Hazlo Como Hombre
+#EXTGRP:peliculas
+https://archive.org/download/hazcohoSRREGIO_201801/hazcohoSRREGIO.mkv
+#EXTINF:0,Bambi
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/6PpjEq
+#EXTINF:0,La Era De Hielo V : Choque De Mundos
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/XvjtB6
+#EXTINF:0,Triste San Valentin
+#EXTGRP:peliculas
+http://discontrol@media-es-am.crackle.com/1/r/v0/cpoyk_480p_1mbps.mp4
+#EXTINF:0,Leatherface
+#EXTGRP:peliculas
+https://archive.org/download/LeaSRREGIO/LeaSRREGIO.mkv
+#EXTINF:0,Olaf Frozen Adventure
+#EXTGRP:peliculas
+https://archive.org/download/OlFroAvSRREGIO/OlFroAvSRREGIO.mkv
+#EXTINF:0,Valerian y la ciudad de los mil planetas
+#EXTGRP:peliculas
+https://archive.org/download/ValeSRREGIO/ValeSRREGIO.mkv
+#EXTINF:0,American Made
+#EXTGRP:peliculas
+https://archive.org/download/MSRREGIO/MSRREGIO.mkv
+#EXTINF:0,Hermanos Guardianes
+#EXTGRP:peliculas
+https://archive.org/download/HeGuSRREGIO/HeGuSRREGIO.mkv
+#EXTINF:0,Spiderman Regreso a Casa
+#EXTGRP:peliculas
+https://archive.org/download/SpiMaSRREGIO/SpiMaSRREGIO.mkv
+#EXTINF:0,NinjaGO
+#EXTGRP:peliculas
+https://archive.org/download/pickidj74_gmail_Gole/gole.mp4
+#EXTINF:0,LA SEPTIMA PROFECIA (1988)
+#EXTGRP:peliculas
+https://ia801903.us.archive.org/5/items/LaSeptimaProfeciaXVIDMP3Spanish/La%20Septima%20Profecia%20-%20%5BXVID-MP3%20Spanish%5D.mp4
+#EXTINF:0,LA MASACRE DE TEXAS 2 (1986)
+#EXTGRP:peliculas
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas21986.mp4
+#EXTINF:0,Yo Antes De Ti
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/ufFQGA
+#EXTINF:0,Harry Potter Y La Piedra Filosofal
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/UWWRe5
+#EXTINF:0,Viaje Salvaje
+#EXTGRP:peliculas
+https://archive.org/download/2132154654SRREGIO.NET/21321546548978456132.mkv
+#EXTINF:0,VIERNES 13 CAPITULO VI JASON VIVE (1986)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VI%20-%20Jason%20Lives%20%281986%29/Friday%20The%2013th%20Part%20Vi%20-%20Jason%20Lives%20%281986%29%20%281%29.mkv
+#EXTINF:0,George De La Selva
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/GiHBk5
+#EXTINF:0,VIERNES 13: EL CAPITULO FINAL (1984)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20-%20The%20Final%20Chapter%20%281984%29/Friday%20The%2013th%20-%20The%20Final%20Chapter%20%281984%29%20%281%29.mkv
+#EXTINF:0,Striptease
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/XcmKwC
+#EXTINF:0,Batalla de Sexos
+#EXTGRP:peliculas
+https://archive.org/download/badsexSRREGIO/badsexSRREGIO.mkv
+#EXTINF:0,Patinaje a la Gloria
+#EXTGRP:peliculas
+https://archive.org/download/PATINAJESRREGIO.NET/PATINAJEALAGLORIASRREGIO.NET.mkv
+#EXTINF:0,La Momia 2017
+#EXTGRP:peliculas
+http://ow.ly/rSYw30eS9p5
+#EXTINF:0,EL CONJURO (2013)
+#EXTGRP:peliculas
+https://ia601506.us.archive.org/20/items/TransceDual1080p/El%20Conjuro.mkv
+#EXTINF:0,Sahara
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/Q7Wzj3
+#EXTINF:0,The Osiris Child Science Fiction
+#EXTGRP:peliculas
+https://archive.org/download/oiris.SRREGIO.NET/sc13nc3.f1ct10n.v0lum3.0n3.th3.0s1r1s.ch1ld.SRREGIO.NET.mp4
+#EXTINF:0,Quija
+#EXTGRP:peliculas
+https://archive.org/download/quiSRREGIO/quiSRREGIO.mkv
+#EXTINF:0,LA MASACRE DE TEXAS (2003)
+#EXTGRP:peliculas
+https://ia600602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas52003RemakeParte1.mp4
+#EXTINF:0,Batman vs Dos Caras
+#EXTGRP:peliculas
+https://archive.org/download/baVStwoFa3.SRREGIO/baVStwoFa3.SRREGIO.mkv
+#EXTINF:0,Huye
+#EXTGRP:peliculas
+http://ow.ly/3a9530eXgFk
+#EXTINF:0,Chucky El Muñeco Diabolico
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/YowBkJ
+#EXTINF:0,Buenos Vecinos 2
+#EXTGRP:peliculas
+https://archive.org/download/Nei2SRREGIO/Nei2SRREGIO.mkv
+#EXTINF:0,Colossal
+#EXTGRP:peliculas
+http://ow.ly/FXZ930eWtrs
+#EXTINF:0,Yo antes de Ti
+#EXTGRP:peliculas
+http://ow.ly/1Ud130eSgQq
+#EXTINF:0,La Era De Hielo I
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/MkZTcH
+#EXTINF:0,ASESINO DE LA CARRETERA (2007)
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4?disco
+#EXTINF:0,Amytiville El Despertar
+#EXTGRP:peliculas
+https://archive.org/download/4w4k3n1ng.SRREGIO/4w4k3n1ng.SRREGIO.mkv
+#EXTINF:0,Annabelle La Creacion
+#EXTGRP:peliculas
+https://archive.org/download/4nnSRREGIO.NET/4nnSRREGIO.NET.mkv
+#EXTINF:0,SAW VIII SUBTITULADO
+#EXTGRP:peliculas
+https://archive.org/download/SVIIISRREGIO/SVIIISRREGIO.mkv
+#EXTINF:0,Tadeo Jones El Secreto del Rey Midas
+#EXTGRP:peliculas
+https://archive.org/download/TaJoSRREGIO/TaJoSRREGIO.mkv
+#EXTINF:0,Aftermath
+#EXTGRP:peliculas
+https://archive.org/download/407300470.SRREGIO/407300470.SRREGIO.mkv
+#EXTINF:0,Cars 2
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/G2MucQ
+#EXTINF:0,6 Dias
+#EXTGRP:peliculas
+https://archive.org/download/6.DSRREGIO/6.DSRREGIO.mkv
+#EXTINF:0,El mensajero de la oscuridad
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4
+#EXTINF:0,La Era De Hielo IV : La Formacion De Los Continentes
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/CGPLJx
+#EXTINF:0,Atomica
+#EXTGRP:peliculas
+https://archive.org/download/AtoSRRegio/AtoSRRegio.mkv
+#EXTINF:0,CARRIE (1976)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Carrie%20%281976%29/Carrie%20%281976%29%20%281%29.mkv
+#EXTINF:0,Pandemic
+#EXTGRP:peliculas
+https://archive.org/download/p4n.SRREGIO/p4n.SRREGIO.mkv
+#EXTINF:0,Angry Birds La Pelicula
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/YfcYLx
+#EXTINF:0,La Era De Hielo II
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/ZemBX4
+#EXTINF:0,El Dictador
+#EXTGRP:peliculas
+https://archive.org/download/ElDiSRREGIO/ElDiSRREGIO.mkv
+#EXTINF:0,Campeon de Campeones
+#EXTGRP:peliculas
+https://archive.org/download/Cam.d.camp.1989SRREGIO/Cam.d.camp.1989SRREGIO.mkv
+#EXTINF:0,Como cortar a tu patan
+#EXTGRP:peliculas
+https://ia601508.us.archive.org/4/items/patan/patan.mp4
+#EXTINF:0,Muerte Misteriosa
+#EXTGRP:peliculas
+http://bit.ly/2gkOHon 
+#EXTINF:0,Civil War
+#EXTGRP:peliculas
+https://archive.org/download/CiWaSRREGIO/CiWaSRREGIO.mkv
+#EXTINF:0,Fragiles
+#EXTGRP:peliculas
+https://archive.org/download/FraSRREGIO/FraSRREGIO.mkv
+#EXTINF:0,El Rostro De Un Angel
+#EXTGRP:peliculas
+https://archive.org/download/angelSRREGIO/el.rostro.de.un.angelSRREGIO.mkv
+#EXTINF:0,LA MALDICION DE CHUCKY (2013)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28C%29/Curse%20of%20Chucky%20%282013%29%20UNRATED/Curse%20Of%20Chucky%20%282013%29%20Unrated%20%281%29.mkv
+#EXTINF:0,1992
+#EXTGRP:peliculas
+https://archive.org/download/1992.SRREGIO/1992.SRREGIO.mkv
+#EXTINF:0,It (Eso) opc2
+#EXTGRP:peliculas
+http://www.cinevall.club/videos/eso.m4v
+#EXTINF:0,DESTINO FINAL (2000)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%20%282000%29/Final%20Destination%20%282000%29.mkv
+#EXTINF:0,Cult Of Chucky
+#EXTGRP:peliculas
+https://archive.org/download/00000007.SRREGIO/00000007.SRREGIO.mkv
+#EXTINF:0,Cars
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/ngaT6c
+#EXTINF:0,Mi Villano Favorito 3
+#EXTGRP:peliculas
+https://archive.org/download/171006SrRegio/Mi.Villano.Favorito.3.SrRegio.mp4
+#EXTINF:0,Drumline
+#EXTGRP:peliculas
+https://ia601507.us.archive.org/12/items/Drumline1latSRREGIO/Drumline1lat.mp4
+#EXTINF:0,Niña Mala
+#EXTGRP:peliculas
+http://discontrol@media-es-am.crackle.com/1/f/x0/4enyk_480p_1mbps.mp4
+#EXTINF:0,LA MASACRE DE TEXAS: EL INICIO (2006)
+#EXTGRP:peliculas
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas62006ElInicio-RemakeParte2.mp4
+#EXTINF:0,Un Don Excepcional
+#EXTGRP:peliculas
+http://ow.ly/TIKq30eS9jx
+#EXTINF:0,La Torre Oscura
+#EXTGRP:peliculas
+http://bit.ly/2gkopmk 
+#EXTINF:0,Wheres The Money
+#EXTGRP:peliculas
+https://archive.org/download/wh3r3.SRREGIO/wh3r3s.th3.m0n3y.SRREGIO.mkv
+#EXTINF:0,El Infierno
+#EXTGRP:peliculas
+https://archive.org/download/EInSRREGIO_201801/EInSRREGIO.mkv
+#EXTINF:0,Sandy Wexler
+#EXTGRP:peliculas
+http://bit.ly/MRAQCSAND
+#EXTINF:0,Cementerio de Mascotas
+#EXTGRP:peliculas
+http://bit.ly/MRAQCCEMEN
+#EXTINF:0,EL MENSAJERO DE LA OSCURIDAD (2002)
+#EXTGRP:peliculas
+http://discontrol@media-es-am.crackle.com/1/g/x0/7enyk_480p_1mbps.mp4?
+#EXTINF:0,DESTINO FINAL 3 (2006)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%203%20%282006%29/Final%20Destination%203%20%282006%29.mkv 
+#EXTINF:0,Phineas y Ferb Mision Marvel
+#EXTGRP:peliculas
+https://archive.org/download/Phi.Fe.Mi.MarSRREGIO/Phi.Fe.Mi.MarSRREGIO.mkv
+#EXTINF:0,Volver Al Futuro
+#EXTGRP:peliculas
+https://discontrol@ia601500.us.archive.org/34/items/84CK.70/84CK.70.FU7U93-ES-720.mp4
+#EXTINF:0,LA MASACRE DE TEXAS (1974)
+#EXTGRP:peliculas
+https://ia800602.us.archive.org/22/items/col.mas.tex/La%20Masacre%20de%20Texas%201%20%281974%29.mp4
+#EXTINF:0,DESTINO FINAL 2 (2003)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%202%20%282003%29/Final%20Destination%202%20%282003%29.mkv
+#EXTINF:0,Return to Horror High
+#EXTGRP:peliculas
+http://bit.ly/ReturntoHorrorHigh
+#EXTINF:0,Redada Asesina
+#EXTGRP:peliculas
+https://archive.org/download/ReAsSRREGIO/ReAsSRREGIO.mkv
+#EXTINF:0,El Experimento Belko
+#EXTGRP:peliculas
+https://archive.org/download/EExBeSRREGIO/EExBeSRREGIO.mkv
+#EXTINF:0,My Little Pony La Pelicula
+#EXTGRP:peliculas
+https://archive.org/download/mlplpSRREGIO/mlplpSRREGIO.mkv
+#EXTINF:0,Duelo de Titanes
+#EXTGRP:peliculas
+https://archive.org/download/dudtitSRREGIO/Duelo%20de%20Titanes.SRREGIO.mkv
+#EXTINF:0,Los Pitufos La Aldea Perdida
+#EXTGRP:peliculas
+https://archive.org/download/pituregioSRREGIO.NET/pituregio.mkv
+#EXTINF:0,Contrabando
+#EXTGRP:peliculas
+https://archive.org/download/ContrabaSRREGIO/ContrabaSRREGIO.mp4
+#EXTINF:0,Dumbo
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/Aq4EDQ
+#EXTINF:0,Pequeño Vampiro
+#EXTGRP:peliculas
+https://archive.org/download/PeVaSRREGIO/PeVaSRREGIO.mkv
+#EXTINF:0,Operativo Hasselhoff
+#EXTGRP:peliculas
+http://bit.ly/2gkOjpV 
+#EXTINF:0,Unhinged SUBTITULADO
+#EXTGRP:peliculas
+https://archive.org/download/unSRREGIO/unSRREGIO.mkv
+#EXTINF:0,DULCE VENGANZA (2010)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%20%282010%29%20Dual/I%20Spit%20On%20Your%20Grave%20%282010%29Dual%20ripeada.mkv
+#EXTINF:0,q_auto:good,w_600/gr7omjwa0gueamswfgbc/jeepers-creepers-3-poster-revealed-but-are-the-fan-posters-better.jpg" group-title="PELICULAS ECONOMICA", Jeepers Creepers 3
+#EXTGRP:peliculas
+https://archive.org/download/JeeCre3SRREGIO/JeeCre3SRREGIO.mkv
+#EXTINF:0,VIERNES 13 PARTE VIII JASON TOMA MANHATTAN (1989)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VIII%20-%20Jason%20Takes%20Manhattan%20%281989%29/Friday%20The%2013th%20Part%20Viii%20-%20Jason%20Takes%20Manhattan%20%281989%29%20%281%29.mkv
+#EXTINF:0,30 DIAS DE NOCHE (2007)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%280-9%29/30%20Days%20of%20Night%20%282007%29/30%20Days%20Of%20Night%20%282007%29%20%281%29.mkv
+#EXTINF:0,La Guerra del Planeta de los simios
+#EXTGRP:peliculas
+http://bit.ly/2xHvD6a
+#EXTINF:0,Es Por Tu Bien
+#EXTGRP:peliculas
+https://archive.org/download/Esbien.SRREGIO/Esbien.SRREGIO.mkv
+#EXTINF:0,EL Matador
+#EXTGRP:peliculas
+http://discontrol@media-es-am.crackle.com/1/v/d0/drpyk_480p_1mbps.mp4
+#EXTINF:0,DESTINO FINAL 4 (2009)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%204%20%282009%29/Final%20Destination%204%20%282009%29.mkv
+#EXTINF:0,VIERNES 13 PARTE V UN NUEVO COMIENZO (1985)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29/Friday%20The%2013th%20-%20A%20New%20Beginning%20%281985%29%20%281%29.mkv
+#EXTINF:0,DESTINO FINAL 5 (2011)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Final%20Destination%205%20%282011%29/Final%20Destination%205%20%282011%29.mkv
+#EXTINF:0,SILENT HILT: REVELACION (2012)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28S%29/Silent%20Hill%20Revelation%20%282012%29%20Dual/Silent%20Hill%20Revelation%20%282012%29%20Dual%20%281%29.mkv
+#EXTINF:0,La Era De Hielo III : El Origen De Los Dinosaurios
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/3heZnV
+#EXTINF:0,Sangre por Sangre
+#EXTGRP:peliculas
+https://archive.org/download/54n6r3.SrRegio/Sangre.por.Sangre.SrRegio.mp4
+#EXTINF:0,Battleship Batalla Naval
+#EXTGRP:peliculas
+https://archive.org/download/BatSRREGIO/BatSRREGIO.mkv
+#EXTINF:0,Horas de oscuridad
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/g/x0/8enyk_480p_1mbps.mp4
+#EXTINF:0,VIERNES 13 (1980)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20%281980%29/Friday%20The%2013th%20%281980%29%20%281%29.mkv
+#EXTINF:0,Chucky el Muñeco Diabolico
+#EXTGRP:peliculas
+http://bit.ly/MRAQCCHUCK
+#EXTINF:0,Asesino de La Carretera
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/1/n0/teoyk_480p_1mbps.mp4
+#EXTINF:0,El Implacable
+#EXTGRP:peliculas
+https://archive.org/download/ThFogSRREGIO_201801/ThFogSRREGIO.mkv
+#EXTINF:0,Chucky El Muñeco Diabolico II
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/xnNiv2
+#EXTINF:0,L.O.R.D The Legend Of Ravaging Dynasties
+#EXTGRP:peliculas
+https://archive.org/download/L.SRREGIOt/L.SRREGIOt.mkv
+#EXTINF:0,Chucky el Muñeco Diabolico II
+#EXTGRP:peliculas
+http://bit.ly/MRAQCCHUK2
+#EXTINF:0,Soy Leyenda
+#EXTGRP:peliculas
+https://archive.org/download/SoLeSRREGIO/SoLeSRREGIO.mkv
+#EXTINF:0,Bailarina
+#EXTGRP:peliculas
+https://archive.org/download/21354gSRREGIO.NET/21354g216d66855x.mp4
+#EXTINF:0,Desnudo
+#EXTGRP:peliculas
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:306-Desnudo.mp4/playlist.m3u8
+#EXTINF:0,LA MASACRE DE TEXAS 3 (1990)
+#EXTGRP:peliculas
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas31990.mp4
+#EXTINF:0,ANNABELLE (2014)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28A%29/Annabelle.2014/Annabelle.2014%20%281%29.mkv
+#EXTINF:0,Volver al Futuro III
+#EXTGRP:peliculas
+https://discontrol@ia601500.us.archive.org/0/items/84CK.70-3/84CK.70.FU7U93.3-ES-720.mp4
+#EXTINF:0,La Noche de la Bruja
+#EXTGRP:peliculas
+https://archive.org/download/howibr.SRREGIO/h0us3.0f.th3.w1tch.SRREGIO.mkv
+#EXTINF:0,Amigos Intocables
+#EXTGRP:peliculas
+https://archive.org/download/AmInSRREGIO/AmInSRREGIO.mkv
+#EXTINF:0,ESTACION ZOMBIE (2016)
+#EXTGRP:peliculas
+https://ia601501.us.archive.org/29/items/discotqa_gmail_1.0/TiroLoco.mp4
+#EXTINF:0,Las Aventuras del Capitan Calzoncillos
+#EXTGRP:peliculas
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:333-Las_aventuras_del_Capitan_Calzoncillos.mp4/playlist.m3u8
+#EXTINF:0,Expedientes Secretos X
+#EXTGRP:peliculas
+https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mkv
+#EXTINF:0,Batman y Harley Queen
+#EXTGRP:peliculas
+https://ia801502.us.archive.org/8/items/33548979815123SRREGIO/33548979815123.mp4
+#EXTINF:0,DULCE VENGANZA 2 (2013)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20%20Ingl%c3%a9s/I%20Spit%20On%20Your%20Grave%202%20%282013%29%20Unrated%20Ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:0,Wheelman
+#EXTGRP:peliculas
+https://archive.org/download/96352487.SRREGIO.NET/96352487.SRREGIO.NET.mp4
+#EXTINF:0,Zombiology
+#EXTGRP:peliculas
+https://archive.org/download/Zy.SRREGIO/Zy.SRREGIO.mkv
+#EXTINF:0,Logan 2017
+#EXTGRP:peliculas
+http://bit.ly/LOGANMOVIE
+#EXTINF:0,Pokemon Yo Te Elijo
+#EXTGRP:peliculas
+https://archive.org/download/PoYoTESRREGIO/PoYoTESRREGIO.mkv
+#EXTINF:0,VIERNES 13 PARTE II (1981)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%202%20%281981%29/Friday%20The%2013th%20Part%202%20%281981%29%20%281%29.mkv
+#EXTINF:0,Colors CASTELLANO
+#EXTGRP:peliculas
+https://archive.org/download/SRREGIO.NETColores/Cos.7p.CAS.avi.mp4
+#EXTINF:0,LA MASACRE DE TEXAS: HERENCIA MALDITA (2013)
+#EXTGRP:peliculas
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas720133d.mp4
+#EXTINF:0,Trolls
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/skmf64
+#EXTINF:0,Locas Vacaciones Sobre Ruedas
+#EXTGRP:peliculas
+https://archive.org/download/PacruedSRREGIO.NET/PacruedSRREGIO.NET.mkv
+#EXTINF:0,La Vida En Juego
+#EXTGRP:peliculas
+https://archive.org/download/LaViEJuSRREGIO/LaViEJuSRREGIO.mkv
+#EXTINF:0,La Morgue
+#EXTGRP:peliculas
+https://archive.org/download/85312467985216SRREGIO/85312467985216.mkv
+#EXTINF:0,Los Expedientes Secretos X
+#EXTGRP:peliculas
+https://archive.org/download/EXPEDIENTESX.SRREGIO.NET/EXPEDIENTESSECRETOSX.SRREGIO.NET.mp4
+#EXTINF:0,Apocalypto
+#EXTGRP:peliculas
+https://archive.org/download/4900471970SRREGIO/4900471970-SRREGIO.mkv
+#EXTINF:0,Konvert SUBTITULADO
+#EXTGRP:peliculas
+https://archive.org/download/KonSRREGIO/KonSRREGIO.mkv
+#EXTINF:0,EL RITO (2011)
+#EXTGRP:peliculas
+https://ia601506.us.archive.org/20/items/TransceDual1080p/El%20Rito%20-%20Bluid_x264.mp4
+#EXTINF:0,Mascota Humana
+#EXTGRP:peliculas
+http://bit.ly/MASCOTAHUMANA
+#EXTINF:0,Todo Todo
+#EXTGRP:peliculas
+http://ow.ly/tlKB30eS9pK
+#EXTINF:0,Salvajes
+#EXTGRP:peliculas
+https://archive.org/download/SalSRREGIO/SalSRREGIO.mkv
+#EXTINF:0,Marjorie Prime
+#EXTGRP:peliculas
+https://ia801507.us.archive.org/22/items/major_201710/major.mp4
+#EXTINF:0,LA MASACRE DE TEXAS: LA NUEVA GENERACION (1994)
+#EXTGRP:peliculas
+https://ia800602.us.archive.org/22/items/col.mas.tex/LaMasacreDeTexas41994LaNuevaGeneracion.mp4
+#EXTINF:0,El dia del apocalipsis
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/d/_0/0kpyk_480p_1mbps.mp4
+#EXTINF:0,Shopkins World Vacation
+#EXTGRP:peliculas
+https://archive.org/download/SHOPKINSSRREGIODOCUMENTAL/SHOPKINS.WORLD.VACATION.mkv
+#EXTINF:0,Melanie Apocalipsis Zombie
+#EXTGRP:peliculas
+https://archive.org/download/meapzoSRRREGIO/meapzoSRRREGIO.mkv
+#EXTINF:0,Alicia En El Pais de Las Maravillas
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/QupTmL
+#EXTINF:0,HOSTAL PARTE 2 (2007)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel-Part%20II%20%282007%29/Hostel-part%20II%20%282007%29%20Dual.mkv
+#EXTINF:0,Duro de Cuidar
+#EXTGRP:peliculas
+http://bit.ly/2xGOpiV
+#EXTINF:0,Encuentro Cercano del 3er Tipo
+#EXTGRP:peliculas
+https://archive.org/download/3213265489SRREGIO.NET/321326548978778798797997.mkv
+#EXTINF:0,60 Minutos Para Morir
+#EXTGRP:peliculas
+https://archive.org/download/60mipamoSRREGIO/60mipamoSRREGIO.mkv
+#EXTINF:0,Corre Milkha Corre SUB
+#EXTGRP:peliculas
+https://archive.org/download/SRREGIOmil/Mil.mp4
+#EXTINF:0,Operacion Avalancha
+#EXTGRP:peliculas
+https://archive.org/download/0p3r.4v4l4.SRREGIO/0p3r.4v4l4.SRREGIO.mkv
+#EXTINF:0,La Bella Y La Bestia
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/65yzGX
+#EXTINF:0,Diario De Una Pasion
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/NmTmoq
+#EXTINF:0,Transformers 5: El Ultimo Caballero
+#EXTGRP:peliculas
+http://relaywowza1.hostingdesoporte.com:1935/americavod/_definst_/http/mp4:1-Transformers_5_el_ultimo_caballero.mp4/playlist.m3u8
+#EXTINF:0,EL ORFANATO (2007)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28E%29/El%20orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol/El%20Orfanato%20%282007%29%20720p%20Audio%20Espa%c3%b1ol.mkv
+#EXTINF:0,HOSTAL (2005)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28H%29/Hostel%20%282005%29/Hostel%20%282005%29%20Dual.mkv
+#EXTINF:0,Annabelle 2
+#EXTGRP:peliculas
+http://bit.ly/2yqjyGj
+#EXTINF:0,VIERNES 13 PARTE VII LA SANGRE NUEVA (1988)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%20VII%20-%20The%20New%20Blood%20%281988%29/Friday%20The%2013th%20Part%20Vii%20-%20The%20New%20Blood%20%281988%29%20%281%29.mkv
+#EXTINF:0,VIERNES 13 PARTE III (1982)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28F%29/Friday%20the%2013th%20Part%203%20%281982%29/Friday%20the%2013th%20Part%203%20%281982%29%20%281%29.mkv
+#EXTINF:0,Lowriders (Subtitulada)
+#EXTGRP:peliculas
+https://archive.org/download/LowSRREGIO/LowSRREGIO.mkv
+#EXTINF:0,0,182,268_AL_.jpg" group-title="PELICULAS ECONOMICA", Kidnap
+#EXTGRP:peliculas
+https://archive.org/download/k1dn4p.srregio/k1dn4p.2017.srregio.mp4
+#EXTINF:0,Amor A Primera Vista
+#EXTGRP:peliculas
+https://archive.org/download/AaPVSRREGIO/AaPVSRREGIO.mkv
+#EXTINF:0,La Marca de la Bestia
+#EXTGRP:peliculas
+http://media-es-am.crackle.com/1/g/r0/rjoyk_480p_1mbps.mp4
+#EXTINF:0,DULCE VENGANZA 3 (2015)
+#EXTGRP:peliculas
+http://axstvdoble.mine.nu/peliculas%20agui/%28I%29/I%20Spit%20on%20%20Your%20Grave%203%20%282015%29%20Ingl%c3%a9s/I.spit.on.your.grave.3.2015%20ingl%c3%a9s%20ripeada%20%281%29.mkv
+#EXTINF:0,Cementerio De Mascotas
+#EXTGRP:peliculas
+http://cecegeek@goo.gl/Y4CNHe
+#EXTINF:0,Notorious Big
+#EXTGRP:peliculas
+https://archive.org/download/NotoBigSRREGIO/NotoBigSRREGIO.mkv
+#EXTINF:0,Emoji La Pelicula
+#EXTGRP:peliculas
+https://archive.org/download/rostrocelSRREGIO.NET/rostrocelSRREGIO.NET.mp4
+#EXTINF:0,Dos Bribones Tras La Esmeralda
+#EXTGRP:peliculas
+https://archive.org/download/tr4s.3l.c0r4z0n..SRREGIO/tr4s.3l.c0r4z0n..SRREGIO.mkv
+#EXTINF:0,Una familia feliz (Happy Family)
+#EXTGRP:peliculas
+https://oqbkiv.oloadcdn.net/dl/l/ZhxZdh8AesUi85kQ/tZz1do3KEHE/Happy.Family.2017.Latino.hdrip%2BSTEFANO.mp4?mime=true
+#EXTINF:0,Una familia feliz 2 (Happy Family)
+#EXTGRP:peliculas
+https://www395.playercdn.net/87/3/o9h0p6HtvMzhkU-b0J1Umg/1516319957/171201/971FM20LBBTI7Q1HV49E8.mp4
+#EXTINF:0,Una familia feliz 3 (Happy Family)
+#EXTGRP:peliculas
+https://www961.playercdn.net/85/3/AgUasuGmO_93Dgnw0L5E2A/1516321945/171129/040FLZS7CRNJ7XTP8TAYP.mp4
+#EXTINF:0,Los cazafantasmas 2
+#EXTGRP:peliculas
+https://1fgm8gj.oloadcdn.net/dl/l/tapFgriUvhNpdPZ1/UX-2SH7g3ro/C4z4f4nt4sm4s.2.HDRip.1989.castellano.avi.mp4?mime=truehttps://1fgm8gj.oloadcdn.net/dl/l/tapFgriUvhNpdPZ1/UX-2SH7g3ro/C4z4f4nt4sm4s.2.HDRip.1989.castellano.avi.mp4
+#EXTINF:0,Annabelle - Creation (2017) [ES-Subs]
+#EXTGRP:peliculas
+http://www.cinevall.com/videos/annabelle_2.m4v
+#EXTINF:0,Alien - Covenant (2017)*
+#EXTGRP:peliculas
+https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
+#EXTINF:0,Alien - Covenant (2017) [Dual-EN]
+#EXTGRP:peliculas
+https://ia601505.us.archive.org/27/items/Cheverefans0022017.mkv/Cheverefans%200022017.mkv.mp4
